@@ -1,0 +1,693 @@
+{
+    "name": "Allora912",
+    "products": [
+        {
+            "name": "Allora 9-1/2\" / European Oak Strada 9-1/2\u2033",
+            "link": "https://www.garrisoncollection.com/product/strada-9-1-2",
+            "description": "Warm bronze tones with the perfect amount of natural saturation make Strada 9-1/2\u2033 a standout color that elevates the natural beauty of European Oak. As the Italian word for \u201cpath,\u201d Strada will take you on a journey into the depths of natural color variations, like a stroll through a Tuscan hillside.Strada 9-1/2\u201d is also available in Select (AB) 7-1/2\u201d width asStrada Select 7-1/2\u201dand 7-1/2\u201d width Select Character (ABCD) asStrada 7-1/2\u2033.Proudly manufactured in Italy,Allora by Garrisonrepresents our highest quality flooring experience ever created \u2013 a product so luxurious, it could only come from Europe. Each plank is finished with an eight-layer water-based matte UV lacquer, giving this flooring a modern look with time-tested durability. The gorgeous aesthetics bring together a natural warmth and authenticity that you can be proud to say isMade In Italy.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GFALO9506",
+                "Species": "european oak",
+                "Construction": "Engineered (Birch Plywood)",
+                "Grade": "Select Character",
+                "Finish": "Matte UV Lacquer",
+                "Surface_Treatment": "Light Wire-Brush",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7'8 1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 25 Year Structure, Limited 10 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Square Stair Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAsgAAADgBAMAAADs5Y03AAAAKlBMVEX///8VFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzE6EmeNAAAADXRSTlMAIDBAWHCAoMDQ4O/wtYH6MwAAAnVJREFUeNrt3T1OAkEYgOGNNDS0nsHSSEJiwSmA3orChMoLUJJ4DwvibQyKid5FCijkZ3aWmUlY8ry1NA/mS+bLzlJNNo37Kln1q+JBhgxZkCFDFuR2Iv8sl+8o/CdDFmTIkAUZsiBDhizIkCELMmRBhgxZkCELMmTIggwZsiBDFmTIkFUCeeV+Y4OG5yF/VIqvBxkyZEG+KOT1NBTkLMif4T+BDBmyILcHeaqaZunI1jsxJSJ/2wBFLIgSkdeGbvmZDBkyZMiQIUMW5LYiDxyfCx6rt8gzR+eCx+od8sj5ufixenZv+BafyZAhQ4YMGTJk7ZC/mv/OCOSmyInPwkGGDBky5EtFvrXZPLrqzIo8tNXMdcUsgPxitVngitke8pMZvF8n9A08Qi5fFzJkyIIMGTJkyJCVE7njMB1ZwomvZ+lTckG0RX6z4YzrOQF5btoWn8mQIUOGDBkyZEGGDBkyZMiQIbcI+cbeuMQ+eX74dSn3PhkyZMiQIUOGLMitQz78jLfTZrtbvUXuLv71uvmMV5sFyvEsXBcyZMiQIUOGLMiQIUOGDBkyZMiQIUNuFfLJ7T/kbMh3i2NZ2mdFPp5xARkyZMiQIQsyZMiQIUOGHEQe1dyjgpwBue4ZXMjpyIO693JBTkcOZiZDhgwZMmTIggwZMmTIkCFDhnzFyLGvG4CcgLyIyAOHiciVcQEZsiBDhgwZMmTIkCFDFmTIkCFDhizIkK8aeXXGb+9Aboh8TpAhQ4YMGTJkQYYMGTJkyJAhQ4YsyJAhQ4YMWZAhQ4YMGTJkyJAhCzJkyJAhQxZkyJAhQ4YMGTJkyDpssmncT+8B5cn+ABNqvnNIfvVzAAAAAElFTkSuQmCC",
+                    "Thickness: 1-1/2\"",
+                    "Length: 7'8-1/2\"",
+                    "Width: 3-1/2\u201d"
+                ],
+                [
+                    "Allora Reducer",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 7' 8 1/2\"",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 7/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Strada-9-1_2_-Overhead-768x712.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Strada-Select-9.5-1600x1002.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Strada-9-1_2_-Overhead-1600x1483.jpg"
+            ]
+        },
+        {
+            "name": "Allora 9-1/2\" / European Oak Volto 9-1/2\u2033",
+            "link": "https://www.garrisoncollection.com/product/volto-9",
+            "description": "The natural beauty and smokey tones of Volto 9-1/2\u2033 provide the perfect combination of warmth and character to any room. As the Italian word for \u201cface,\u201d Volto\u2019s alluring range of tan tones and natural knots and cracks create a modern and unique look, like radiant facial features under a glowing, sun-kissed Italian sky.Volto 9-1/2\u201d is also available in 7-1/2\u201d width Select (AB) asVolto 7-1/2\u201d.Proudly manufactured in Italy,Allora by Garrisonrepresents our highest quality flooring experience ever created \u2013 a product so luxurious, it could only come from Europe. Each plank is finished with an eight-layer water-based matte UV lacquer, giving this flooring a modern look with time-tested durability. The gorgeous aesthetics bring together a natural warmth and authenticity that you can be proud to say isMade In Italy.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GFALO9508",
+                "Species": "european oak",
+                "Construction": "Engineered (Birch Plywood)",
+                "Grade": "Select Character",
+                "Finish": "Matte UV Lacquer",
+                "Surface_Treatment": "Light Wire-Brush",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7'8 1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 25 Year Structure, Limited 10 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Square Stair Nosing",
+                    "data:image/webp;base64,UklGRj4BAABXRUJQVlA4TDIBAAAvx8I3EG8wF1MxMUQCpDldINFIIBcAHAcQAoChGOC21t66obLGSAsI+CW5cqkRWDrnNIIBwlWuWKt1muDN4Kjc/fPoMQD+nPhH9H8CtNZ6QOjmJPL35+cXfIn/xf+p5WuE1Wkgqwqroz/J7vbdouhMuf17bR+giwgwSEMbEj6nEbhT+BylAe3sA3MRjwWDMxY9wuU0IiWFy1HSwjm5RVGIf6lt7SNyEZ0p49jJCgFyGp+qAmSHnFoUOTYJax3CqQ1oxAD24Xgfpvch1RVMjfjvC9cgYNp4GEZs6g7nOCRkBmIul8yY+U4hM5CljfjvzxjOH0kXl/lmYMrbiMt65NLCiJ1DaGff6T2KHBvx3/cbe4udSy8z+PhpxH/pGmvku4VMmOI/8Z/4718rrbUeUAzb0AA=",
+                    "Thickness: 5/8\"",
+                    "Length: 7'8-1/2\"",
+                    "Width: 3-1/2\u201d"
+                ],
+                [
+                    "Allora Reducer",
+                    "data:image/webp;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 7' 8 1/2\"",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 7/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Volto-9-1_2_-Overhead-768x712.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Volto-9.5-1600x1066.jpg"
+            ]
+        },
+        {
+            "name": "Allora 9-1/2\" / European Oak Sella 9-1/2\u2033",
+            "link": "https://www.garrisoncollection.com/product/sella-9-1-2",
+            "description": "Light tan in color, with subtle and beautiful saturated undertones, Sella 9-1/2\u2033 provides a natural and elegant look. As the Italian word for \u201cSaddle,\u201d Sella provides the nostalgic feel of naturally aged leather, with just the right amount of patina.Sella 9-1/2\u201d is also available in Select (AB) 9-1/2\u201d width asSella Select 9-1/2\u201d, 7-1/2\u201d width Select (AB) asSella Select 7-1/2\u2033, 7-1/2\u201d width Select Character (ABCD) asSella 7-1/2\u201d, and in a herringbone pattern asSella Herringbone.Proudly manufactured in Italy,Allora by Garrisonrepresents our highest quality flooring experience ever created \u2013 a product so luxurious, it could only come from Europe. Each plank is finished with an eight-layer water-based matte UV lacquer, giving this flooring a modern look with time-tested durability. The gorgeous aesthetics bring together a natural warmth and authenticity that you can be proud to say isMade In Italy.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GFALO9505",
+                "Species": "european oak",
+                "Construction": "Engineered (Birch Plywood)",
+                "Grade": "Select Character",
+                "Finish": "Matte UV Lacquer",
+                "Surface_Treatment": "Light Wire-Brush",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7'8 1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 25 Year Structure, Limited 10 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Square Stair Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAsgAAADgBAMAAADs5Y03AAAAKlBMVEX///8VFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzE6EmeNAAAADXRSTlMAIDBAWHCAoMDQ4O/wtYH6MwAAAnVJREFUeNrt3T1OAkEYgOGNNDS0nsHSSEJiwSmA3orChMoLUJJ4DwvibQyKid5FCijkZ3aWmUlY8ry1NA/mS+bLzlJNNo37Kln1q+JBhgxZkCFDFuR2Iv8sl+8o/CdDFmTIkAUZsiBDhizIkCELMmRBhgxZkCELMmTIggwZsiBDFmTIkFUCeeV+Y4OG5yF/VIqvBxkyZEG+KOT1NBTkLMif4T+BDBmyILcHeaqaZunI1jsxJSJ/2wBFLIgSkdeGbvmZDBkyZMiQIUMW5LYiDxyfCx6rt8gzR+eCx+od8sj5ufixenZv+BafyZAhQ4YMGTJk7ZC/mv/OCOSmyInPwkGGDBky5EtFvrXZPLrqzIo8tNXMdcUsgPxitVngitke8pMZvF8n9A08Qi5fFzJkyIIMGTJkyJCVE7njMB1ZwomvZ+lTckG0RX6z4YzrOQF5btoWn8mQIUOGDBkyZEGGDBkyZMiQIbcI+cbeuMQ+eX74dSn3PhkyZMiQIUOGLMitQz78jLfTZrtbvUXuLv71uvmMV5sFyvEsXBcyZMiQIUOGLMiQIUOGDBkyZMiQIUNuFfLJ7T/kbMh3i2NZ2mdFPp5xARkyZMiQIQsyZMiQIUOGHEQe1dyjgpwBue4ZXMjpyIO693JBTkcOZiZDhgwZMmTIggwZMmTIkCFDhnzFyLGvG4CcgLyIyAOHiciVcQEZsiBDhgwZMmTIkCFDFmTIkCFDhizIkK8aeXXGb+9Aboh8TpAhQ4YMGTJkQYYMGTJkyJAhQ4YsyJAhQ4YMWZAhQ4YMGTJkyJAhCzJkyJAhQxZkyJAhQ4YMGTJkyDpssmncT+8B5cn+ABNqvnNIfvVzAAAAAElFTkSuQmCC",
+                    "Thickness: 5/8\"",
+                    "Length: 7'8-1/2\"",
+                    "Width: 3-1/2\u201d"
+                ],
+                [
+                    "Allora Reducer",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 7' 8 1/2\"",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 7/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Sella-9-1_2_-Overhead-768x712.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8171-HDR-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8066-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8116-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8436-HDR-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8396-HDR-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8411-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8191-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8141-HDR-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8031-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8046-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8071-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8101-HDR-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8121-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8131-HDR-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/07_4w9a7245-2-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/08_606northrexforddrive032-2-1600x1017.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/09_4w9a7305-2-1600x1035.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/10_606northrexforddrive030-2-1600x1050.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/14_606northrexforddrive034-2-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/16_606northrexforddrive039-2-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/17_606northrexforddrive040-2-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/18_606northrexforddrive012-2-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/19_606northrexforddrive070-2-1600x1041.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/20_606northrexforddrive068-2-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/22_606northrexforddrive072-2-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/23_606northrexforddrive074-2-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/26_606northrexforddrive081-2-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/28_606northrexforddrive082-2-1600x1038.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/29_606northrexforddrive078-2-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/06_606northrexforddrive020-2-1600x1066.jpg"
+            ]
+        },
+        {
+            "name": "Allora 9-1/2\" / European Oak Sella Select 9-1/2\u2033",
+            "link": "https://www.garrisoncollection.com/product/sella-select-9-1-2",
+            "description": "Light tan in color, with subtle and beautiful saturated undertones, Sella Select 9-1/2\u2033 provides a natural and elegant look. As the Italian word for \u201cSaddle,\u201d Sella provides the nostalgic feel of naturally aged leather, with just the right amount of patina.Sella Select 9-1/2\u201d is also available in Select Character (ABCD) 9-1/2\u201d width asSella 9-1/2\u201d, 7-1/2\u201d width Select (AB) asSella Select 7-1/2\u2033, 7-1/2\u201d width Select Character (ABCD) asSella 7-1/2\u201d, and in a herringbone pattern asSella Herringbone.Proudly manufactured in Italy,Allora by Garrisonrepresents our highest quality flooring experience ever created \u2013 a product so luxurious, it could only come from Europe. Each plank is finished with an eight-layer water-based matte UV lacquer, giving this flooring a modern look with time-tested durability. The gorgeous aesthetics bring together a natural warmth and authenticity that you can be proud to say isMade In Italy.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GFALO9505S",
+                "Species": "european oak",
+                "Construction": "Engineered (Birch Plywood)",
+                "Grade": "Select",
+                "Finish": "Matte UV Lacquer",
+                "Surface_Treatment": "Light Wire-Brush",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7'8 1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 25 Year Structure, Limited 10 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Square Stair Nosing",
+                    "data:image/webp;base64,UklGRj4BAABXRUJQVlA4TDIBAAAvx8I3EG8wF1MxMUQCpDldINFIIBcAHAcQAoChGOC21t66obLGSAsI+CW5cqkRWDrnNIIBwlWuWKt1muDN4Kjc/fPoMQD+nPhH9H8CtNZ6QOjmJPL35+cXfIn/xf+p5WuE1Wkgqwqroz/J7vbdouhMuf17bR+giwgwSEMbEj6nEbhT+BylAe3sA3MRjwWDMxY9wuU0IiWFy1HSwjm5RVGIf6lt7SNyEZ0p49jJCgFyGp+qAmSHnFoUOTYJax3CqQ1oxAD24Xgfpvch1RVMjfjvC9cgYNp4GEZs6g7nOCRkBmIul8yY+U4hM5CljfjvzxjOH0kXl/lmYMrbiMt65NLCiJ1DaGff6T2KHBvx3/cbe4udSy8z+PhpxH/pGmvku4VMmOI/8Z/4718rrbUeUAzb0AA=",
+                    "Thickness: 5/8\"",
+                    "Length: 7'8-1/2\"",
+                    "Width: 3-1/2\u201d"
+                ],
+                [
+                    "Allora Reducer",
+                    "data:image/webp;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 7' 8 1/2\"",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 7/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/xSella-Select-9-1_2_-Overhead-768x712.jpg.pagespeed.ic.NgCU9b-_7g.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Allora-Location-3-1072x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Allora-Location-4-1600x1072.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Allora-Location-2_ret-1600x898.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Allora-Location-1_ret-1067x1600.jpg"
+            ]
+        },
+        {
+            "name": "Allora 9-1/2\" / European Oak Doma 9-1/2\u2033",
+            "link": "https://www.garrisoncollection.com/product/doma-9-1-2",
+            "description": "The rich golden glow of Doma 9-1/2\u2033 mimics a stunning Italian sunrise. As the Italian word for \u201ctame,\u201d Doma delivers tame, even tones, and a sophisticated and warm feel to any room.Doma 9-1/2\u201d is also available in Select (AB) 9-1/2\u201d width asDoma Select 9-1/2\u201d, 7-1/2\u201d width Select (AB) asDoma Select 7-1/2\u2033, 7-1/2\u201d width Select Character (ABCD) asDoma 7-1/2\u201d, and in a herringbone pattern asDoma Herringbone.Proudly manufactured in Italy,Allora by Garrisonrepresents our highest quality flooring experience ever created \u2013 a product so luxurious, it could only come from Europe. Each plank is finished with an eight-layer water-based matte UV lacquer, giving this flooring a modern look with time-tested durability. The gorgeous aesthetics bring together a natural warmth and authenticity that you can be proud to say isMade In Italy.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GFALO9503",
+                "Species": "european oak",
+                "Construction": "Engineered (Birch Plywood)",
+                "Grade": "Select Character",
+                "Finish": "Matte UV Lacquer",
+                "Surface_Treatment": "Light Wire-Brush",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7'8 1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 25 Year Structure, Limited 10 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Square Stair Nosing",
+                    "data:image/webp;base64,UklGRj4BAABXRUJQVlA4TDIBAAAvx8I3EG8wF1MxMUQCpDldINFIIBcAHAcQAoChGOC21t66obLGSAsI+CW5cqkRWDrnNIIBwlWuWKt1muDN4Kjc/fPoMQD+nPhH9H8CtNZ6QOjmJPL35+cXfIn/xf+p5WuE1Wkgqwqroz/J7vbdouhMuf17bR+giwgwSEMbEj6nEbhT+BylAe3sA3MRjwWDMxY9wuU0IiWFy1HSwjm5RVGIf6lt7SNyEZ0p49jJCgFyGp+qAmSHnFoUOTYJax3CqQ1oxAD24Xgfpvch1RVMjfjvC9cgYNp4GEZs6g7nOCRkBmIul8yY+U4hM5CljfjvzxjOH0kXl/lmYMrbiMt65NLCiJ1DaGff6T2KHBvx3/cbe4udSy8z+PhpxH/pGmvku4VMmOI/8Z/4718rrbUeUAzb0AA=",
+                    "Thickness: 5/8\"",
+                    "Length: 7'8-1/2\"",
+                    "Width: 3-1/2\u201d"
+                ],
+                [
+                    "Allora Reducer",
+                    "data:image/webp;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 7' 8 1/2\"",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 7/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/xDoma-9-1_2_-Overhead-1-768x712.jpg.pagespeed.ic.AisdEgj6wB.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7118-HDR-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7151-HDR-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7187-HDR-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7193-HDR-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7202-HDR-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7241-HDR-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7283-HDR-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7311-HDR-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7366-HDR-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7394-HDR-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7400-HDR-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7403-HDR-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7430-HDR-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7454-HDR-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7466-HDR-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7104-HDR-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8929-4-HDR-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8959-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8979-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8764-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8784-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8804-HDR-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8864-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8869-HDR-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8844-HDR-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_8824-HDR-1600x1067.jpg"
+            ]
+        },
+        {
+            "name": "Allora 9-1/2\" / European Oak Doma Select 9-1/2\u2033",
+            "link": "https://www.garrisoncollection.com/product/doma-select-9-1-2",
+            "description": "The rich golden glow of Doma Select 9-1/2\u2033 mimics a stunning Italian sunrise. As the Italian word for \u201ctame,\u201d Doma delivers tame, even tones, and a sophisticated and warm feel to any room.Doma Select 9-1/2\u201d is also available in Select Character (ABCD) 9-1/2\u201d width asDoma 9-1/2\u201d, 7-1/2\u201d width Select (AB) asDoma Select 7-1/2\u2033, 7-1/2\u201d width Select Character (ABCD) asDoma 7-1/2\u201d, and in a herringbone pattern asDoma Herringbone.Proudly manufactured in Italy,Allora by Garrisonrepresents our highest quality flooring experience ever created \u2013 a product so luxurious, it could only come from Europe. Each plank is finished with an eight-layer water-based matte UV lacquer, giving this flooring a modern look with time-tested durability. The gorgeous aesthetics bring together a natural warmth and authenticity that you can be proud to say isMade In Italy.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GFALO9503S",
+                "Species": "european oak",
+                "Construction": "Engineered (Birch Plywood)",
+                "Grade": "Select",
+                "Finish": "Matte UV Lacquer",
+                "Surface_Treatment": "Light Wire-Brush",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7'8 1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 25 Year Structure, Limited 10 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Square Stair Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAsgAAADgBAMAAADs5Y03AAAAKlBMVEX///8VFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzE6EmeNAAAADXRSTlMAIDBAWHCAoMDQ4O/wtYH6MwAAAnVJREFUeNrt3T1OAkEYgOGNNDS0nsHSSEJiwSmA3orChMoLUJJ4DwvibQyKid5FCijkZ3aWmUlY8ry1NA/mS+bLzlJNNo37Kln1q+JBhgxZkCFDFuR2Iv8sl+8o/CdDFmTIkAUZsiBDhizIkCELMmRBhgxZkCELMmTIggwZsiBDFmTIkFUCeeV+Y4OG5yF/VIqvBxkyZEG+KOT1NBTkLMif4T+BDBmyILcHeaqaZunI1jsxJSJ/2wBFLIgSkdeGbvmZDBkyZMiQIUMW5LYiDxyfCx6rt8gzR+eCx+od8sj5ufixenZv+BafyZAhQ4YMGTJk7ZC/mv/OCOSmyInPwkGGDBky5EtFvrXZPLrqzIo8tNXMdcUsgPxitVngitke8pMZvF8n9A08Qi5fFzJkyIIMGTJkyJCVE7njMB1ZwomvZ+lTckG0RX6z4YzrOQF5btoWn8mQIUOGDBkyZEGGDBkyZMiQIbcI+cbeuMQ+eX74dSn3PhkyZMiQIUOGLMitQz78jLfTZrtbvUXuLv71uvmMV5sFyvEsXBcyZMiQIUOGLMiQIUOGDBkyZMiQIUNuFfLJ7T/kbMh3i2NZ2mdFPp5xARkyZMiQIQsyZMiQIUOGHEQe1dyjgpwBue4ZXMjpyIO693JBTkcOZiZDhgwZMmTIggwZMmTIkCFDhnzFyLGvG4CcgLyIyAOHiciVcQEZsiBDhgwZMmTIkCFDFmTIkCFDhizIkK8aeXXGb+9Aboh8TpAhQ4YMGTJkQYYMGTJkyJAhQ4YsyJAhQ4YMWZAhQ4YMGTJkyJAhCzJkyJAhQxZkyJAhQ4YMGTJkyDpssmncT+8B5cn+ABNqvnNIfvVzAAAAAElFTkSuQmCC",
+                    "Thickness: 5/8\"",
+                    "Length: 7'8-1/2\"",
+                    "Width: 3-1/2\u201d"
+                ],
+                [
+                    "Allora Reducer",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 7' 8 1/2\"",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 7/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/xDoma-Select-9-1_2_-Overhead-768x712.jpg.pagespeed.ic.BNv_OWBFxE.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Doma-Select-9-1067x1600.jpg"
+            ]
+        },
+        {
+            "name": "Allora 9-1/2\" / European Oak Unfinished Select 9-1/2\u2033",
+            "link": "https://www.garrisoncollection.com/product/select-unfinished-9",
+            "description": "Introducing Allora Unfinished Select 9-1/2\u2033 wide flooring, meticulously crafted in Italy. This series of unfinished Select grade engineered flooring provides a blank canvas for your creative vision. Milled with precision from high-quality raw materials, it features an exceptionally thick 4 mm wear layer. These remarkable floors await customization through personalized staining and finishing, allowing you to perfectly align them with your preferences, style, and requirements.Proudly manufactured in Italy,Allora by Garrisonrepresents our highest quality flooring experience ever created \u2013 a product so luxurious, it could only come from Europe. Each plank is finished with an eight-layer water-based matte UV lacquer, giving this flooring a modern look with time-tested durability. The gorgeous aesthetics bring together a natural warmth and authenticity that you can be proud to say isMade In Italy.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GFALO9500S",
+                "Species": "european oak",
+                "Construction": "Engineered (Birch Plywood)",
+                "Grade": "Select",
+                "Finish": "Unfinished",
+                "Surface_Treatment": "Smooth",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7'8 1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 25 Year Structure, Limited 10 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Square Stair Nosing",
+                    "data:image/webp;base64,UklGRj4BAABXRUJQVlA4TDIBAAAvx8I3EG8wF1MxMUQCpDldINFIIBcAHAcQAoChGOC21t66obLGSAsI+CW5cqkRWDrnNIIBwlWuWKt1muDN4Kjc/fPoMQD+nPhH9H8CtNZ6QOjmJPL35+cXfIn/xf+p5WuE1Wkgqwqroz/J7vbdouhMuf17bR+giwgwSEMbEj6nEbhT+BylAe3sA3MRjwWDMxY9wuU0IiWFy1HSwjm5RVGIf6lt7SNyEZ0p49jJCgFyGp+qAmSHnFoUOTYJax3CqQ1oxAD24Xgfpvch1RVMjfjvC9cgYNp4GEZs6g7nOCRkBmIul8yY+U4hM5CljfjvzxjOH0kXl/lmYMrbiMt65NLCiJ1DaGff6T2KHBvx3/cbe4udSy8z+PhpxH/pGmvku4VMmOI/8Z/4718rrbUeUAzb0AA=",
+                    "Thickness: 5/8\"",
+                    "Length: 7'8-1/2\"",
+                    "Width: 3-1/2\u201d"
+                ],
+                [
+                    "Allora Reducer",
+                    "data:image/webp;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 7' 8 1/2\"",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 7/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2024/01/xAllora-Unfinished-Select-9-1-2_-Overhead-768x712.jpg.pagespeed.ic.Tsi37qGW61.webp"
+            ]
+        },
+        {
+            "name": "Allora 9-1/2\" / European Oak Altura 9-1/2\u2033",
+            "link": "https://www.garrisoncollection.com/product/altura-9-1-2",
+            "description": "The smokey tan glow of Altura 9-1/2\u2033 is reminiscent of a lovely foggy morning in Italy, the perfect combination of cool and warm hues with the right amount of expertly matched character. As the Italian word for \u201caltitude,\u201d Altura will heighten the appearance of any room and elevate your space.Altura 9-1/2\u201d is also available in 7-1/2\u201d width Select Character (ABCD) asAltura 7-1/2\u201d.Proudly manufactured in Italy,Allora by Garrison represents our highest quality flooring experience ever created \u2013 a product so luxurious, it could only come from Europe. Each plank is finished with an eight-layer water-based matte UV lacquer, giving this flooring a modern look with time-tested durability. The gorgeous aesthetics bring together a natural warmth and authenticity that you can be proud to say isMade In Italy.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GFALO9501",
+                "Species": "european oak",
+                "Construction": "Engineered (Birch Plywood)",
+                "Grade": "Select Character",
+                "Finish": "Matte UV Lacquer",
+                "Surface_Treatment": "Light Wire-Brush",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7'8 1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 25 Year Structure, Limited 10 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Square Stair Nosing",
+                    "data:image/webp;base64,UklGRj4BAABXRUJQVlA4TDIBAAAvx8I3EG8wF1MxMUQCpDldINFIIBcAHAcQAoChGOC21t66obLGSAsI+CW5cqkRWDrnNIIBwlWuWKt1muDN4Kjc/fPoMQD+nPhH9H8CtNZ6QOjmJPL35+cXfIn/xf+p5WuE1Wkgqwqroz/J7vbdouhMuf17bR+giwgwSEMbEj6nEbhT+BylAe3sA3MRjwWDMxY9wuU0IiWFy1HSwjm5RVGIf6lt7SNyEZ0p49jJCgFyGp+qAmSHnFoUOTYJax3CqQ1oxAD24Xgfpvch1RVMjfjvC9cgYNp4GEZs6g7nOCRkBmIul8yY+U4hM5CljfjvzxjOH0kXl/lmYMrbiMt65NLCiJ1DaGff6T2KHBvx3/cbe4udSy8z+PhpxH/pGmvku4VMmOI/8Z/4718rrbUeUAzb0AA=",
+                    "Thickness: 1-1/2\"",
+                    "Length: 7'8-1/2\"",
+                    "Width: 3-1/2\u201d"
+                ],
+                [
+                    "Allora Reducer",
+                    "data:image/webp;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 7' 8 1/2\"",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 7/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/xAltura-9-1-2-Overhead-768x712.jpg.pagespeed.ic.8kP0tEM2CP.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Altura-9.5-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/Altura-9.5-2-1600x897.jpg"
+            ]
+        },
+        {
+            "name": "Allora 9-1/2\" / European Oak Luna 9-1/2\u2033",
+            "link": "https://www.garrisoncollection.com/product/luna-9",
+            "description": "With a charming off-white tone and subtle dove, amber, and peach undertones, Luna 9-1/2\u2033 provides a calming feel and natural aesthetic to serve as either the backdrop or the focus of any room. As the Italian word for \u201cmoon,\u201d Luna is inspired by the radiant glow of a full moon shining bright on a cool summer night.Luna 9-1/2\u201d is also available in Select (AB) 9-1/2\u201d width asLuna Select 9-1/2\u201d, 7-1/2\u201d width Select (AB) asLuna Select 7-1/2\u2033, 7-1/2\u201d width Select Character (ABCD) asLuna 7-1/2\u201d, and in a herringbone pattern asLuna Herringbone.Proudly manufactured in Italy,Allora by Garrisonrepresents our highest quality flooring experience ever created \u2013 a product so luxurious, it could only come from Europe. Each plank is finished with an eight-layer water-based matte UV lacquer, giving this flooring a modern look with time-tested durability. The gorgeous aesthetics bring together a natural warmth and authenticity that you can be proud to say isMade In Italy.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GFALO9504",
+                "Species": "european oak",
+                "Construction": "Engineered (Birch Plywood)",
+                "Grade": "Select Character",
+                "Finish": "Matte UV Lacquer",
+                "Surface_Treatment": "Light Wire-Brush",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7'8 1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 25 Year Structure, Limited 10 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Square Stair Nosing",
+                    "data:image/webp;base64,UklGRj4BAABXRUJQVlA4TDIBAAAvx8I3EG8wF1MxMUQCpDldINFIIBcAHAcQAoChGOC21t66obLGSAsI+CW5cqkRWDrnNIIBwlWuWKt1muDN4Kjc/fPoMQD+nPhH9H8CtNZ6QOjmJPL35+cXfIn/xf+p5WuE1Wkgqwqroz/J7vbdouhMuf17bR+giwgwSEMbEj6nEbhT+BylAe3sA3MRjwWDMxY9wuU0IiWFy1HSwjm5RVGIf6lt7SNyEZ0p49jJCgFyGp+qAmSHnFoUOTYJax3CqQ1oxAD24Xgfpvch1RVMjfjvC9cgYNp4GEZs6g7nOCRkBmIul8yY+U4hM5CljfjvzxjOH0kXl/lmYMrbiMt65NLCiJ1DaGff6T2KHBvx3/cbe4udSy8z+PhpxH/pGmvku4VMmOI/8Z/4718rrbUeUAzb0AA=",
+                    "Thickness: 5/8\"",
+                    "Length: 7'8-1/2\"",
+                    "Width: 3-1/2\u201d"
+                ],
+                [
+                    "Allora Reducer",
+                    "data:image/webp;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 7' 8 1/2\"",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 7/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/xLuna-9-5-Overhead-11.1.23-768x712.jpeg.pagespeed.ic.y3NA2-alnl.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/06/Luna-KR-1600x996.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/04/Luna-Close-Up-Photo-3-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/04/Luna-Close-Up-Photo-2-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/04/Luna-Close-Up-Photo-1-1307x1600.jpg"
+            ]
+        },
+        {
+            "name": "Allora 9-1/2\" / European Oak Luna Select 9-1/2\u2033",
+            "link": "https://www.garrisoncollection.com/product/luna-select-9",
+            "description": "With a charming off-white tone and subtle dove, amber, and peach undertones, Luna Select 9-1/2\u2033 provides a calming feel and natural aesthetic to serve as either the backdrop or the focus of any room. As the Italian word for \u201cmoon,\u201d Luna is inspired by the radiant glow of a full moon shining bright on a cool summer night.Luna Select 9-1/2\u201d is also available in Select Character (ABCD) 9-1/2\u201d width asLuna 9-1/2\u201d, 7-1/2\u201d width Select (AB) asLuna Select 7-1/2\u2033, 7-1/2\u201d width Select Character (ABCD) asLuna 7-1/2\u201d, and in a herringbone pattern asLuna Herringbone.Proudly manufactured in Italy,Allora by Garrisonrepresents our highest quality flooring experience ever created \u2013 a product so luxurious, it could only come from Europe. Each plank is finished with an eight-layer water-based matte UV lacquer, giving this flooring a modern look with time-tested durability. The gorgeous aesthetics bring together a natural warmth and authenticity that you can be proud to say isMade In Italy.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GFALO9504S",
+                "Species": "european oak",
+                "Construction": "Engineered (Birch Plywood)",
+                "Grade": "Select",
+                "Finish": "Matte UV Lacquer",
+                "Surface_Treatment": "Light Wire-Brush",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7'8 1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 25 Year Structure, Limited 10 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Square Stair Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAsgAAADgBAMAAADs5Y03AAAAKlBMVEX///8VFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzEVFzE6EmeNAAAADXRSTlMAIDBAWHCAoMDQ4O/wtYH6MwAAAnVJREFUeNrt3T1OAkEYgOGNNDS0nsHSSEJiwSmA3orChMoLUJJ4DwvibQyKid5FCijkZ3aWmUlY8ry1NA/mS+bLzlJNNo37Kln1q+JBhgxZkCFDFuR2Iv8sl+8o/CdDFmTIkAUZsiBDhizIkCELMmRBhgxZkCELMmTIggwZsiBDFmTIkFUCeeV+Y4OG5yF/VIqvBxkyZEG+KOT1NBTkLMif4T+BDBmyILcHeaqaZunI1jsxJSJ/2wBFLIgSkdeGbvmZDBkyZMiQIUMW5LYiDxyfCx6rt8gzR+eCx+od8sj5ufixenZv+BafyZAhQ4YMGTJk7ZC/mv/OCOSmyInPwkGGDBky5EtFvrXZPLrqzIo8tNXMdcUsgPxitVngitke8pMZvF8n9A08Qi5fFzJkyIIMGTJkyJCVE7njMB1ZwomvZ+lTckG0RX6z4YzrOQF5btoWn8mQIUOGDBkyZEGGDBkyZMiQIbcI+cbeuMQ+eX74dSn3PhkyZMiQIUOGLMitQz78jLfTZrtbvUXuLv71uvmMV5sFyvEsXBcyZMiQIUOGLMiQIUOGDBkyZMiQIUNuFfLJ7T/kbMh3i2NZ2mdFPp5xARkyZMiQIQsyZMiQIUOGHEQe1dyjgpwBue4ZXMjpyIO693JBTkcOZiZDhgwZMmTIggwZMmTIkCFDhnzFyLGvG4CcgLyIyAOHiciVcQEZsiBDhgwZMmTIkCFDFmTIkCFDhizIkK8aeXXGb+9Aboh8TpAhQ4YMGTJkQYYMGTJkyJAhQ4YsyJAhQ4YMWZAhQ4YMGTJkyJAhCzJkyJAhQxZkyJAhQ4YMGTJkyDpssmncT+8B5cn+ABNqvnNIfvVzAAAAAElFTkSuQmCC",
+                    "Thickness: 5/8\"",
+                    "Length: 7'8-1/2\"",
+                    "Width: 3-1/2\u201d"
+                ],
+                [
+                    "Allora Reducer",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 7' 8 1/2\"",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 7/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/xLuna-Select-9-5-Overhead-11.1.23-768x712.jpeg.pagespeed.ic.7_dMMZaaBx.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7782-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7808-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7844-1600x1106.png",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7778-1067x1600.png",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7723-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7737-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/DSC_7846-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/07/luna9-1600x1067.jpg"
+            ]
+        }
+    ]
+}

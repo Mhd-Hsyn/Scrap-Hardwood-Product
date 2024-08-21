@@ -1,0 +1,378 @@
+{
+    "name": "Victoria",
+    "products": [
+        {
+            "name": "Catania Oak Engineered Hardwood",
+            "description": "Cataniapromises an economical choice within our wide planked ABCD grade selection and is guaranteed to add a modern feel to your current or upcoming renovation with its pale ivory color and style combination. This particular wood floor is finished with several layers of UV lacquer in order to achieve a special finish which provides leveling, protection, as well as a light sheen. These floors are also wire brushed to create the benefit of fine texture while still maintaining a smooth appearance and overall feel.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Light"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/catania-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/catania-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/catania-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/catania-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/catania-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/catania-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/catania-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Catania_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Fano Walnut Engineered Hardwood Flooring",
+            "description": "Fanoguarantees an economical choice within our\u00a0ABDC Character grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural American Walnut color and style combination. This distinctive wood floor is cured with layers of UV\u00a0Lacquer Finish to create both a natural feel and look while maintaining excellent protection. Together with light sanding and wire brushing treatments, these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "8-5/8\u2033",
+                "color": "Dark"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fano-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fano-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fano-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fano-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fano-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fano-9.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fano-11.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fano-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fano-8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Fano_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Lagos Natural Oak Engineered Hardwood",
+            "description": "Lagos Naturalpromises an economical choice within our wide planked ABCD grade selection and is guaranteed to add a modern feel to your current or upcoming renovation with its light natural color and style combination. This distinctive wood floor is cured with layers of Matte Oil to create both a natural feel and look while maintaining excellent protection. Together with a matte finish and wire brushing treatments, these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Light"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/LagosNatural-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagosnatural-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagosnatural-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagosnatural-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagosnatural-2-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagosnatural-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagosnatural-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/LagosNatural_Installed-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagosnatural-3.jpg"
+            ]
+        },
+        {
+            "name": "Lagos Oak Engineered Hardwood",
+            "description": "Lagospromises an economical choice within our wide planked ABCDE grade selection and is guaranteed to add a modern feel to your current or upcoming renovation with its light vintage color and style combination. This particular wood floor is finished with several layers of UV lacquer in order to achieve a special finish which provides leveling, protection, as well as a light sheen. These floors are also wire brushed to create the benefit of fine texture while still maintaining a smooth appearance and overall feel.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Natural"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagos-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagos-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagos-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagos-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagos-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagos-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lagos-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Lagos_Installed-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2019/06/laguna-natural-instagram-3-1-1.webp"
+            ]
+        },
+        {
+            "name": "Matera European Oak Engineered Hardwood Flooring",
+            "description": "Materapromises an economical choice within our wide planked ABCD grade selection and is guaranteed to add a modern\u00a0feel to your current or upcoming renovation with its distressed dusty grey color and style combination.\u00a0This particular wood floor is finished with several layers of UV lacquer in order to achieve a special finish which provides leveling, protection, as well as a light sheen. These floors are also wire brushed to create the benefit of fine texture while still maintaining a smooth appearance and overall feel.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Grey"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/matera-2-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/matera-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/matera-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/matera-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/matera-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/matera-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/matera-8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Matera_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Padova Oak Engineered Hardwood Flooring",
+            "description": "Padovapromises an economical choice within our wide planked ABCD grade selection and is guaranteed to add a modern feel to your current or upcoming renovation with its smoky color and style combination. This particular wood floor is finished with several layers of UV lacquer in order to achieve a special finish which provides leveling, protection, as well as a light sheen. These floors are also wire brushed to create the benefit of fine texture while still maintaining a smooth appearance and overall feel. To seamlessly preserve the beauty and longevity of your Padova wood floors,WOCAor BONA hardwood floor products are highly recommended.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Dark"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Padova-650x555-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Padova-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Padova-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Padova-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Padova-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Padova-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Padova_Installed-1-scaled-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2019/06/padova-1.jpg"
+            ]
+        },
+        {
+            "name": "Pesaro Oak Engineered Hardwood Flooring",
+            "description": "Pesaropromises an economical choice within our wide-planked ABCD grade selection and is guaranteed to add a modern feel to your current or upcoming renovation with its darker and slightly grey more variant color and style combination. This distinctive wood floor is cured with layers of Matte Natural Oil to create both a natural feel and look while maintaining excellent protection. Together with light gloss and wire brushing treatments these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "8-5/8\u2033",
+                "color": "Dark"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Pesaro_rt-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Pesaro-02.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Pesaro-05.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Pesaro-00.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Pesaro-04.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Pesaro-01.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Pesaro-03.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Pesaro_650x555.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Pesaro_Installed-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Pesaro_update-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_pesaro-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_pesaro-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_pesaro-4-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_pesaro-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_pesaro-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_pesaro-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_pesaro-2.jpg"
+            ]
+        },
+        {
+            "name": "Potenza French Oak Engineered Hardwood",
+            "description": "Potenzapromises an economical choice within our wide-planked ABCD grade selection and is guaranteed to add a modern feel to your current or upcoming renovation with its darker and slightly grey more variant color and style combination. This distinctive wood floor is cured with layers of Matte Natural Oil to create both a natural feel and look while maintaining excellent protection. Together with light gloss and wire brushing treatments these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "8-5/8\u2033",
+                "color": "Grey"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Potenza_650x555.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Potenza_01.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Potenza_02.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Potenza_03.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Potenza_04.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Potenza_05.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Potenza_06.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Potenza-1-600x800-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Potenza-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Potenza-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Potenza-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Potenza-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Potenza-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Potenza-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Potenza-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Potenza_Installed-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-15.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-12.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-10.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-70.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-50.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-44.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-41.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-39.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-33.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-31.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-30.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-20.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-18.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2017/03/rs_potenza-16.jpg"
+            ]
+        },
+        {
+            "name": "Sanremo European Oak Engineered Hardwood Flooring",
+            "description": "Sanremoguarantees an economical choice within our ABDC Character grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural European White Oak color and style combination. This distinctive wood floor is cured with layers of UV Lacquer to create both a natural feel and look while maintaining excellent protection. Together with light sanding and wire brushing treatments, these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Grey"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/sanremo-9.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Sanremo_Installed-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2019/02/sanremo_custom-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2019/02/sanremo_custom-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2019/02/sanremo_custom-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2019/02/sanremo_custom-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2019/02/sanremo_custom-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2019/02/sanremo_custom-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/sanremo-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/sanremo-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/sanremo-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/sanremo-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/sanremo-8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/sanremo-3.jpg"
+            ]
+        },
+        {
+            "name": "Scandicci European Oak Engineered Hardwood Flooring",
+            "description": "Scandicciguarantees an economical choice within our\u00a0ABCD Character grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural European White Oak\u00a0color and style combination. This distinctive wood floor is cured with layers of UV\u00a0Lacquer to create both a natural feel and look while maintaining excellent protection. Together with light sanding and wire brushing treatments, these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Natural"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/scandicci-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/scandicci-3-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/scandicci-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/scandicci-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/scandicci-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/scandicci-8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/scandicci-9.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Scandicci_Installed-1-2.jpg"
+            ]
+        },
+        {
+            "name": "Stabia Oak Engineered Hardwood Flooring",
+            "description": "Stabia 2guarantees an economical choice within our ABDC Character grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Dark Natural American Walnut color and style combination. This distinctive wood floor is cured with layers of Lacquer Finish to create both a natural feel and look while maintaining excellent protection. Together with light sanding and wire brushing treatments, these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Lacquer",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "8-5/8\u2033",
+                "color": "Dark"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Stabia-2.jpeg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Stabia2_2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Stabia2_3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Stabia2_4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Stabia2_5.jpg"
+            ]
+        },
+        {
+            "name": "Trapani Oak Engineered Hardwood Flooring",
+            "description": "Trapanipromises an economical choice within our wide-planked ABCD grade selection and is guaranteed to add a modern feel to your current or upcoming renovation with its natural pale color and style combination. This particular wood floor is finished with several layers of UV lacquer in order to achieve a special finish which provides leveling, protection, as well as a light sheen. These floors are also wire brushed to create the benefit of fine texture while still maintaining a smooth appearance and overall feel.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Natural"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Trapani-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Trapani-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Trapani-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/FloorScore_SCS_4C.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Trapani_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Unfinished 9-1/2\u2033 European Oak  Engineered Hardwood",
+            "description": "Unfinished 9-1/2\u2033promises an economical choice within our wide-planked ABCD grade selection and is guaranteed to add a modern feel to your current or upcoming renovation with its natural color and style combination. This particular wood floor is unfinished and unstained for the benefit of fine texture while maintaining a smooth appearance. You can simply seal this flooring or stain and seal this flooring to your liking.",
+            "details": {
+                "finish": "Unfinished",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Unfinished",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Natural"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Unfinished-9.5in-555x650-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victora-Unfinished-9.5in-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Unfinished-9.5in-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Unfinished-9.5in-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Unfinished-9.5in-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Unfinished-9.5in-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-4-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Unfinished-10.25in-070-main-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Unfinished-9.5in-030-web.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Unfinished-9.5in-033-web.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Unfinished-9.5in-034-web.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in_main.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Unfinished-9.5in-033.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-4-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-7-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victora-Unfinished-9.5in-3.png",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-2-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victora-Unfinished-9.5in-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Unfinished-9.5in-2-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Unfinished-9.5in-3-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Unfinished-9.5in-5-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Victoria-Unfinished-9.5in-7-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Unfinished-9.5in-4-2-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Unfinished9.5_Installed-1.jpg"
+            ]
+        }
+    ]
+}

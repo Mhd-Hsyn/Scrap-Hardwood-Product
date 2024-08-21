@@ -1,0 +1,109 @@
+{
+    "name": "La Spezia",
+    "products": [
+        {
+            "name": "Avellino Natural/Rustic Engineered Hardwood Flooring",
+            "description": "Avellinoguarantees an economical choice for Versailles within our Rustic grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural Oak color and style combination. This distinctive wood floor is cured with layers of UV Oil to achieve both a natural feel and look while maintaining excellent protection. Together with a gloss sheen and wire brushing treatments these floors boast an elegant texture and sleek presentation.",
+            "details": {
+                "finish": "UV Oil",
+                "grade": "Natural",
+                "plank_length": "31-1/2\u2033",
+                "texture": "Wire Brushed",
+                "thickness": "3/4\"",
+                "wear_layer": "4mm",
+                "width": "31-1/2\u2033",
+                "color": "Dark"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/avellino-9.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/avellino-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/avellino-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/avellino-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/avellino-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/avellino-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/avellino-8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Treviso-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Avellino_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Casetra Natural/Rustic Engineered Hardwood Flooring",
+            "description": "Casetraguarantees an economical choice for Versailles within our Rustic grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural White Oak color and style combination. This distinctive wood floor is cured with layers of UV Oil to achieve both a natural feel and look while maintaining excellent protection. Together with a glossy sheen and wire brushing treatments these floors boast an elegant texture and sleek presentation.",
+            "details": {
+                "finish": "UV Oil",
+                "grade": "Rustic",
+                "plank_length": "31-1/2\u2033",
+                "texture": "Wire Brushed",
+                "thickness": "3/4\"",
+                "wear_layer": "4mm",
+                "width": "31-1/2\u2033",
+                "color": "Light"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/La-Spezia-Casetra_555x555.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Casetra-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Casetra-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Casetra-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Casetra-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Casetra-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Casetra-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Casetra-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Casetra_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Lamezia Natural/Rustic European Oak Engineered Hardwood Floors",
+            "description": "Lameziapromises an economical choice for Versailles within our Rustic grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural White Oak color and style combination. This distinctive wood floor is cured with layers of UV Oil to achieve both a natural feel and look while maintaining excellent protection. Together with a gloss sheen and wire brushing treatments these floors boast an elegant texture and sleek presentation.",
+            "details": {
+                "finish": "UV Oil",
+                "grade": "Natural",
+                "plank_length": "31-1/2\u2033",
+                "texture": "Wire Brushed",
+                "thickness": "3/4\"",
+                "wear_layer": "4mm",
+                "width": "31-1/2\u2033",
+                "color": "Grey"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-2-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-3-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-4-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-5-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-6-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Lamezia-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Lamezia_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Treviso Natural/Rustic Engineered Hardwood Flooring",
+            "description": "Trevisoguarantees an economical choice for Versailles within our Rustic grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural Oak color and style combination. This distinctive wood floor is cured with layers of UV Oil to achieve both a natural feel and look while maintaining excellent protection. Together with a gloss sheen and wire brushing treatments these floors boast an elegant texture and sleek presentation.",
+            "details": {
+                "finish": "UV Oil",
+                "grade": "Natural",
+                "plank_length": "31-1/2\u2033",
+                "texture": "Wire Brushed",
+                "thickness": "3/4\"",
+                "wear_layer": "4mm",
+                "width": "31-1/2\u2033",
+                "color": "Dark"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Treviso-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Treviso-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Treviso-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Treviso-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Treviso-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Treviso-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/9-Villagio-Treviso-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Treviso_Installed-1.jpg"
+            ]
+        }
+    ]
+}

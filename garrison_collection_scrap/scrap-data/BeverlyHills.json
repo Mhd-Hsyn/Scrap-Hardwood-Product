@@ -1,0 +1,594 @@
+{
+    "name": "BeverlyHills",
+    "products": [
+        {
+            "name": "Beverly Hills / European Oak Alpine",
+            "link": "https://www.garrisoncollection.com/product/european-oak-alpine",
+            "description": "If you are looking for the absolute best value in wide-plank engineered flooring with a super durable finish and exceptional specifications, this collection is for you. Named after the elegant Beverly Hills city, these floors offer a luxurious look and feel that will elevate any space. Impressively wide 9-1/2 inch planks are finished with Urethane with Aluminum Oxide in a number of rich, modern colors. With a thick 4 mm wear layer and lengths beyond 7 feet, get the Beverly Hills aesthetic without the Beverly Hills price, with this incredible collection.",
+            "details": {
+                "Product_Number": "GFBHO9507",
+                "Species": "european oak",
+                "Construction": "Engineered",
+                "Grade": "Select Character",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Light Wire Brushed",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4 mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7' 2-1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 10 Year Structure, Limited 5 Year Finish"
+            },
+            "moduling": [
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAA6CAMAAADvC54tAAABv1BMVEURGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIv7RCHAAAAlHRSTlMAAQIDBAYHCAoMDg8REhQVFxgZGhseICIjJCYpKiwuMDEyNDY3ODk6Ozw+P0NERkdJSk1OUFJVVldZW1xfYGJkZ2lqbnFydnl7fH2Ag4SFh4qLjpKTlpeZnJ6goaSmp6iqq6yusLKztre4ubq8vb7AwcLExsjJyszP0NLU1tfZ2t3e4uXm6err7O3v8fL09vj6/P3+vHxUHAAAAbJJREFUeNrt3GVPQmEAxXFAFERssbsTu0UwsFBBDFCxAxu7C7v7A7v51jeeTd0DO/+P8Nvdnruz+1zJhwi97vRVR0o8pA9hupg0ZvpRDOx5o6c8jGJo7pHGFDnFwB5XuosDKYZ2NKiPl1IM7G6uo8CfYmBvewO10RRDu5xuyVFQDOxly1oZQTG0s7GmNDnFwJ7WzKXBFEM7GTYkyigG9rBoKlRRDOz9wKaLpRjazWxrnpJi8MzWW62hGDyzTRgzfCkGz2yW8pC/EtN9z0vY3I7GZB8eBujMttxVrKYYPLPZ9XFSiqEzm7M9359i6My2218TRTF4ZptqyVJQDJ3ZNq0V4RSDZ7bRplQ5xdCZbdVcEkQxtOMhQ4KMYmD3CyatimLozLZvq4ulGNr1TGuukmLozLbdW6WhGNr5eHO6L8XQmW3dUhZCMbRTR0OSD8XQmW2ps0hNMfTl49Be/zWzee9q/RfdOtv4QKFRjGIUoxjFKMYoRjGKUYxijGIU81CxyX/6IPCnScs2xRZzCXgrXusSWGwvQMgrytnzooqdhop6ET556l1EsasYgX+3EO94/UWxT48p9Iji88N2AAAAAElFTkSuQmCC",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2024/06/xAlpineLilyOverhead-768x513.jpg.pagespeed.ic._CwJ7SH7Kp.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2024/06/Alpine-1600x1067.jpg"
+            ]
+        },
+        {
+            "name": "Beverly Hills / European Oak Burton Way",
+            "link": "https://www.garrisoncollection.com/product/burton-way",
+            "description": "If you are looking for the absolute best value in wide-plank engineered flooring with a super durable finish and exceptional specifications, this collection is for you. Named after the elegant Beverly Hills city, these floors offer a luxurious look and feel that will elevate any space. Impressively wide 9-1/2 inch planks are finished with Urethane with Aluminum Oxide in a number of rich, modern colors. With a thick 4 mm wear layer and lengths beyond 7 feet, get the Beverly Hills aesthetic without the Beverly Hills price, with this incredible collection.",
+            "details": {
+                "Product_Number": "GFBHO9501",
+                "Species": "european oak",
+                "Construction": "Engineered",
+                "Grade": "Select Character",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Light Wire Brushed",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4 mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7' 2-1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 10 Year Structure, Limited 5 Year Finish"
+            },
+            "moduling": [
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/xBurton-Way-Overhead-768x512.jpg.pagespeed.ic.2JhwYveIqB.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_23_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_9507-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_12_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_13_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_14_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_16_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_20_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_21_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_9341-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_22_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_31_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_32_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_39_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_8_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_9455-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_9399-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_9301-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/24-338_9_0.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_9423-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_9485-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_9391-1600x1066.jpg"
+            ]
+        },
+        {
+            "name": "Beverly Hills / European Oak Canon",
+            "link": "https://www.garrisoncollection.com/product/canon",
+            "description": "If you are looking for the absolute best value in wide-plank engineered flooring with a super durable finish and exceptional specifications, this collection is for you. Named after the elegant Beverly Hills city, these floors offer a luxurious look and feel that will elevate any space. Impressively wide 9-1/2 inch planks are finished with Urethane with Aluminum Oxide in a number of rich, modern colors. With a thick 4 mm wear layer and lengths beyond 7 feet, get the Beverly Hills aesthetic without the Beverly Hills price, with this incredible collection.",
+            "details": {
+                "Product_Number": "GFBHO9502",
+                "Species": "european oak",
+                "Construction": "Engineered",
+                "Grade": "Select Character",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Light Wire Brushed",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4 mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7' 2-1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 10 Year Structure, Limited 5 Year Finish"
+            },
+            "moduling": [
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAA6CAMAAADvC54tAAABv1BMVEURGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIv7RCHAAAAlHRSTlMAAQIDBAYHCAoMDg8REhQVFxgZGhseICIjJCYpKiwuMDEyNDY3ODk6Ozw+P0NERkdJSk1OUFJVVldZW1xfYGJkZ2lqbnFydnl7fH2Ag4SFh4qLjpKTlpeZnJ6goaSmp6iqq6yusLKztre4ubq8vb7AwcLExsjJyszP0NLU1tfZ2t3e4uXm6err7O3v8fL09vj6/P3+vHxUHAAAAbJJREFUeNrt3GVPQmEAxXFAFERssbsTu0UwsFBBDFCxAxu7C7v7A7v51jeeTd0DO/+P8Nvdnruz+1zJhwi97vRVR0o8pA9hupg0ZvpRDOx5o6c8jGJo7pHGFDnFwB5XuosDKYZ2NKiPl1IM7G6uo8CfYmBvewO10RRDu5xuyVFQDOxly1oZQTG0s7GmNDnFwJ7WzKXBFEM7GTYkyigG9rBoKlRRDOz9wKaLpRjazWxrnpJi8MzWW62hGDyzTRgzfCkGz2yW8pC/EtN9z0vY3I7GZB8eBujMttxVrKYYPLPZ9XFSiqEzm7M9359i6My2218TRTF4ZptqyVJQDJ3ZNq0V4RSDZ7bRplQ5xdCZbdVcEkQxtOMhQ4KMYmD3CyatimLozLZvq4ulGNr1TGuukmLozLbdW6WhGNr5eHO6L8XQmW3dUhZCMbRTR0OSD8XQmW2ps0hNMfTl49Be/zWzee9q/RfdOtv4QKFRjGIUoxjFKMYoRjGKUYxijGIU81CxyX/6IPCnScs2xRZzCXgrXusSWGwvQMgrytnzooqdhop6ET556l1EsasYgX+3EO94/UWxT48p9Iji88N2AAAAAElFTkSuQmCC",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/xCanon-Overhead-768x512.jpg.pagespeed.ic.NUtAcEhXv2.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4728-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4734-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4749-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4778-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4785-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4809-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4828-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4836-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4862-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4759-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_4788-1066x1600.jpg"
+            ]
+        },
+        {
+            "name": "Beverly Hills / European Oak Doheny",
+            "link": "https://www.garrisoncollection.com/product/european-oak-doheny",
+            "description": "If you are looking for the absolute best value in wide-plank engineered flooring with a super durable finish and exceptional specifications, this collection is for you. Named after the elegant Beverly Hills city, these floors offer a luxurious look and feel that will elevate any space. Impressively wide 9-1/2 inch planks are finished with Urethane with Aluminum Oxide in a number of rich, modern colors. With a thick 4 mm wear layer and lengths beyond 7 feet, get the Beverly Hills aesthetic without the Beverly Hills price, with this incredible collection.",
+            "details": {
+                "Product_Number": "GFBHO9508",
+                "Species": "european oak",
+                "Construction": "Engineered",
+                "Grade": "Select Character",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Light Wire Brushed",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4 mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7' 2-1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 10 Year Structure, Limited 5 Year Finish"
+            },
+            "moduling": [
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2024/06/Doheny-768x513.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2024/06/Doheny-2-1600x1067.jpg"
+            ]
+        },
+        {
+            "name": "Beverly Hills / European Oak Hillcrest",
+            "link": "https://www.garrisoncollection.com/product/hillcrest",
+            "description": "If you are looking for the absolute best value in wide-plank engineered flooring with a super durable finish and exceptional specifications, this collection is for you. Named after the elegant Beverly Hills city, these floors offer a luxurious look and feel that will elevate any space. Impressively wide 9-1/2 inch planks are finished with Urethane with Aluminum Oxide in a number of rich, modern colors. With a thick 4 mm wear layer and lengths beyond 7 feet, get the Beverly Hills aesthetic without the Beverly Hills price, with this incredible collection.",
+            "details": {
+                "Product_Number": "GFBHO9503",
+                "Species": "european oak",
+                "Construction": "Engineered",
+                "Grade": "Select Character",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Light Wire Brushed",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4 mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7' 2-1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 10 Year Structure, Limited 5 Year Finish"
+            },
+            "moduling": [
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAA6CAMAAADvC54tAAABv1BMVEURGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIv7RCHAAAAlHRSTlMAAQIDBAYHCAoMDg8REhQVFxgZGhseICIjJCYpKiwuMDEyNDY3ODk6Ozw+P0NERkdJSk1OUFJVVldZW1xfYGJkZ2lqbnFydnl7fH2Ag4SFh4qLjpKTlpeZnJ6goaSmp6iqq6yusLKztre4ubq8vb7AwcLExsjJyszP0NLU1tfZ2t3e4uXm6err7O3v8fL09vj6/P3+vHxUHAAAAbJJREFUeNrt3GVPQmEAxXFAFERssbsTu0UwsFBBDFCxAxu7C7v7A7v51jeeTd0DO/+P8Nvdnruz+1zJhwi97vRVR0o8pA9hupg0ZvpRDOx5o6c8jGJo7pHGFDnFwB5XuosDKYZ2NKiPl1IM7G6uo8CfYmBvewO10RRDu5xuyVFQDOxly1oZQTG0s7GmNDnFwJ7WzKXBFEM7GTYkyigG9rBoKlRRDOz9wKaLpRjazWxrnpJi8MzWW62hGDyzTRgzfCkGz2yW8pC/EtN9z0vY3I7GZB8eBujMttxVrKYYPLPZ9XFSiqEzm7M9359i6My2218TRTF4ZptqyVJQDJ3ZNq0V4RSDZ7bRplQ5xdCZbdVcEkQxtOMhQ4KMYmD3CyatimLozLZvq4ulGNr1TGuukmLozLbdW6WhGNr5eHO6L8XQmW3dUhZCMbRTR0OSD8XQmW2ps0hNMfTl49Be/zWzee9q/RfdOtv4QKFRjGIUoxjFKMYoRjGKUYxijGIU81CxyX/6IPCnScs2xRZzCXgrXusSWGwvQMgrytnzooqdhop6ET556l1EsasYgX+3EO94/UWxT48p9Iji88N2AAAAAElFTkSuQmCC",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/xHillcrest-Overhead-768x512.jpg.pagespeed.ic.X7B-2oDWro.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/IMG_0251-1200x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/IMG_0250-1600x1200.jpg"
+            ]
+        },
+        {
+            "name": "Beverly Hills / European Oak Rexford",
+            "link": "https://www.garrisoncollection.com/product/rexford",
+            "description": "If you are looking for the absolute best value in wide-plank engineered flooring with a super durable finish and exceptional specifications, this collection is for you. Named after the elegant Beverly Hills city, these floors offer a luxurious look and feel that will elevate any space. Impressively wide 9-1/2 inch planks are finished with Urethane with Aluminum Oxide in a number of rich, modern colors. With a thick 4 mm wear layer and lengths beyond 7 feet, get the Beverly Hills aesthetic without the Beverly Hills price, with this incredible collection.",
+            "details": {
+                "Product_Number": "GFBHO9504",
+                "Species": "european oak",
+                "Construction": "Engineered",
+                "Grade": "Select Character",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Light Wire Brushed",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4 mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7' 2-1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 10 Year Structure, Limited 5 Year Finish"
+            },
+            "moduling": [
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAA6CAMAAADvC54tAAABv1BMVEURGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIv7RCHAAAAlHRSTlMAAQIDBAYHCAoMDg8REhQVFxgZGhseICIjJCYpKiwuMDEyNDY3ODk6Ozw+P0NERkdJSk1OUFJVVldZW1xfYGJkZ2lqbnFydnl7fH2Ag4SFh4qLjpKTlpeZnJ6goaSmp6iqq6yusLKztre4ubq8vb7AwcLExsjJyszP0NLU1tfZ2t3e4uXm6err7O3v8fL09vj6/P3+vHxUHAAAAbJJREFUeNrt3GVPQmEAxXFAFERssbsTu0UwsFBBDFCxAxu7C7v7A7v51jeeTd0DO/+P8Nvdnruz+1zJhwi97vRVR0o8pA9hupg0ZvpRDOx5o6c8jGJo7pHGFDnFwB5XuosDKYZ2NKiPl1IM7G6uo8CfYmBvewO10RRDu5xuyVFQDOxly1oZQTG0s7GmNDnFwJ7WzKXBFEM7GTYkyigG9rBoKlRRDOz9wKaLpRjazWxrnpJi8MzWW62hGDyzTRgzfCkGz2yW8pC/EtN9z0vY3I7GZB8eBujMttxVrKYYPLPZ9XFSiqEzm7M9359i6My2218TRTF4ZptqyVJQDJ3ZNq0V4RSDZ7bRplQ5xdCZbdVcEkQxtOMhQ4KMYmD3CyatimLozLZvq4ulGNr1TGuukmLozLbdW6WhGNr5eHO6L8XQmW3dUhZCMbRTR0OSD8XQmW2ps0hNMfTl49Be/zWzee9q/RfdOtv4QKFRjGIUoxjFKMYoRjGKUYxijGIU81CxyX/6IPCnScs2xRZzCXgrXusSWGwvQMgrytnzooqdhop6ET556l1EsasYgX+3EO94/UWxT48p9Iji88N2AAAAAElFTkSuQmCC",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/xRexford-768x513.jpg.pagespeed.ic.BVlowDDZgW.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/10000148651-904x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/10000148701-904x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1865-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1879-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1570-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1576-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1609-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1628-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1632-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1694-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1698-1065x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1713-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1738-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_1888-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2528-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2540-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2596-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2614-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2656-1600x1065.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2732-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2604-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2609-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2634-1600x1066.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2638-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC_2687-min-1600x1065.png"
+            ]
+        },
+        {
+            "name": "Beverly Hills / European Oak Rodeo Drive",
+            "link": "https://www.garrisoncollection.com/product/rodeo-drive",
+            "description": "If you are looking for the absolute best value in wide-plank engineered flooring with a super durable finish and exceptional specifications, this collection is for you. Named after the elegant Beverly Hills city, these floors offer a luxurious look and feel that will elevate any space. Impressively wide 9-1/2 inch planks are finished with Urethane with Aluminum Oxide in a number of rich, modern colors. With a thick 4 mm wear layer and lengths beyond 7 feet, get the Beverly Hills aesthetic without the Beverly Hills price, with this incredible collection.",
+            "details": {
+                "Product_Number": "GFBHO9505",
+                "Species": "european oak",
+                "Construction": "Engineered",
+                "Grade": "Select Character",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Light Wire Brushed",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4 mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7' 2-1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 10 Year Structure, Limited 5 Year Finish"
+            },
+            "moduling": [
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/xRodeo-Drive-Overhead-768x512.jpg.pagespeed.ic.rXGCvnnLeL.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487236017-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487260418-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487286045-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487313445-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487483725-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176486942739-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176486970869-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487002551-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487028319-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487055611-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487082848-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487106959-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/virtual-tour-137241-photo-17176487129821-1600x1067.jpg"
+            ]
+        },
+        {
+            "name": "Beverly Hills / European Oak Roxbury",
+            "link": "https://www.garrisoncollection.com/product/european-oak-roxbury",
+            "description": "If you are looking for the absolute best value in wide-plank engineered flooring with a super durable finish and exceptional specifications, this collection is for you. Named after the elegant Beverly Hills city, these floors offer a luxurious look and feel that will elevate any space. Impressively wide 9-1/2 inch planks are finished with Urethane with Aluminum Oxide in a number of rich, modern colors. With a thick 4 mm wear layer and lengths beyond 7 feet, get the Beverly Hills aesthetic without the Beverly Hills price, with this incredible collection.",
+            "details": {
+                "Product_Number": "GFBHO9509",
+                "Species": "european oak",
+                "Construction": "Engineered",
+                "Grade": "Select Character",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Light Wire Brushed",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4 mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7' 2-1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 10 Year Structure, Limited 5 Year Finish"
+            },
+            "moduling": [
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAA6CAMAAADvC54tAAABv1BMVEURGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIv7RCHAAAAlHRSTlMAAQIDBAYHCAoMDg8REhQVFxgZGhseICIjJCYpKiwuMDEyNDY3ODk6Ozw+P0NERkdJSk1OUFJVVldZW1xfYGJkZ2lqbnFydnl7fH2Ag4SFh4qLjpKTlpeZnJ6goaSmp6iqq6yusLKztre4ubq8vb7AwcLExsjJyszP0NLU1tfZ2t3e4uXm6err7O3v8fL09vj6/P3+vHxUHAAAAbJJREFUeNrt3GVPQmEAxXFAFERssbsTu0UwsFBBDFCxAxu7C7v7A7v51jeeTd0DO/+P8Nvdnruz+1zJhwi97vRVR0o8pA9hupg0ZvpRDOx5o6c8jGJo7pHGFDnFwB5XuosDKYZ2NKiPl1IM7G6uo8CfYmBvewO10RRDu5xuyVFQDOxly1oZQTG0s7GmNDnFwJ7WzKXBFEM7GTYkyigG9rBoKlRRDOz9wKaLpRjazWxrnpJi8MzWW62hGDyzTRgzfCkGz2yW8pC/EtN9z0vY3I7GZB8eBujMttxVrKYYPLPZ9XFSiqEzm7M9359i6My2218TRTF4ZptqyVJQDJ3ZNq0V4RSDZ7bRplQ5xdCZbdVcEkQxtOMhQ4KMYmD3CyatimLozLZvq4ulGNr1TGuukmLozLbdW6WhGNr5eHO6L8XQmW3dUhZCMbRTR0OSD8XQmW2ps0hNMfTl49Be/zWzee9q/RfdOtv4QKFRjGIUoxjFKMYoRjGKUYxijGIU81CxyX/6IPCnScs2xRZzCXgrXusSWGwvQMgrytnzooqdhop6ET556l1EsasYgX+3EO94/UWxT48p9Iji88N2AAAAAElFTkSuQmCC",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2024/05/xRoxbury-768x512.jpg.pagespeed.ic.ys3rHIbSMT.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2024/05/Roxbury-2-1600x1067.jpg"
+            ]
+        },
+        {
+            "name": "Beverly Hills / European Oak Walden",
+            "link": "https://www.garrisoncollection.com/product/walden",
+            "description": "If you are looking for the absolute best value in wide-plank engineered flooring with a super durable finish and exceptional specifications, this collection is for you. Named after the elegant Beverly Hills city, these floors offer a luxurious look and feel that will elevate any space. Impressively wide 9-1/2 inch planks are finished with Urethane with Aluminum Oxide in a number of rich, modern colors. With a thick 4 mm wear layer and lengths beyond 7 feet, get the Beverly Hills aesthetic without the Beverly Hills price, with this incredible collection.",
+            "details": {
+                "Product_Number": "GFBHO9506",
+                "Species": "european oak",
+                "Construction": "Engineered",
+                "Grade": "Select Character",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Light Wire Brushed",
+                "Janka_Rating": "1360",
+                "Thickness": "5/8\"",
+                "Top_Layer": "4 mm",
+                "Width": "9-1/2\"",
+                "Length": "Mostly 7' 2-1/2\"",
+                "Installation_Methods": "Glue Down, Floating",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 10 Year Structure, Limited 5 Year Finish"
+            },
+            "moduling": [
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 3-1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/xWalden-Overhead-768x512.jpg.pagespeed.ic.Qib5FDkinj.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/SR24051554_6_2.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/SR24051554_8_2.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/SR24051554_10_2.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/SR24051554_11_2.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/SR24051554_12_2.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/SR24051554_16_2.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/SR24051554_17_2.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/SR24051554_18_2.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/SR24051554_26_2.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/SR24051554_5_2.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/image_50379521-1200x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/MUN108-WALDEN-5.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/MUN108-WALDEN-4-1200x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/MUN108-WALDEN-3.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/a1c1e34db89434c7e2892cff64c294b0-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/a4211273626358d055e45c3ebc0d123f-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/c4fd7532eafb55d0f3e0f42d3b738119-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/c863ac266f9a8420ab93b4719a396962-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/DSC00449.jpg-1067x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/ea578246372f5a66833a118b8cad9704-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/ee71ff053e685882f0e4943705eb4223-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/6fb6798b73bdb49d668412b8cbcb9079-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/09caa177cb40ed1ec36c564882603f3c-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/9cc6b403ad10914a5ac37ef2499d258e-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/78dd46649944e645932276a3acb9a215-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/5861b251bb5ea326970d7e2dcddaa424-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/4741450c36d4c736b9afb3253dc65b0f-uncropped_scaled_within_1536_1152.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2023/08/15098302395c622c271e9fbc8e6e4066-uncropped_scaled_within_1536_1152.jpg"
+            ]
+        }
+    ]
+}

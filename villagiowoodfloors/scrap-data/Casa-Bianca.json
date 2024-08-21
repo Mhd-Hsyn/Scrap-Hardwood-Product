@@ -1,0 +1,162 @@
+{
+    "name": "Casa-Bianca",
+    "products": [
+        {
+            "name": "Crema European Oak Engineered Hardwood Flooring",
+            "description": "Cremaguarantees an economical choice within our Select ABC grade collection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural European White Oak color and style combination. This distinctive wood floor is cured with layers of UV Lacquer Finish to create both a natural feel and look while maintaining excellent protection. Together with light sanding and wire brushing treatments, these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "Select ABC",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "3mm",
+                "width": "7-1/2\u2033",
+                "color": "Natural"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/crema-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Casa-Bianca_Crema-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Casa-Bianca_Crema-1b-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Casa-Bianca_Crema-1d-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Casa-Bianca_Crema-0b-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/crema-8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/crema-10.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Crema_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Duna European Oak Engineered Hardwood",
+            "description": "Dunais classic Natural European White Oak color and style combination. This distinctive wood floor is cured with layers of UV Lacquer Finish to create both a natural feel and look while maintaining excellent protection. For optimal care and preservation of this exquisite flooring,WOCAor BONA hardwood floor products are recommended.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "Prime AB",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Smooth",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Light"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Duna-Top-Down.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Duna1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Duna2-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Duna3-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Duna4-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Duna4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Duna3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Duna2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Duna1.jpg"
+            ]
+        },
+        {
+            "name": "Emilia European Oak Engineered Hardwood Flooring",
+            "description": "Emiliaguarantees an economical choice within our Select AB grade collection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural European White Oak color and style combination. This distinctive wood floor is cured with layers of UV Lacquer Finish to create both a natural feel and look while maintaining excellent protection. Together with light sanding and wire brushing treatments, these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "Prime AB",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "3mm",
+                "width": "7-1/2\u2033",
+                "color": "Natural"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Emilia_Villa_1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Emilia_Villagio_128-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Emilia_Villagio_131-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Emilia_Villagio_135-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Emilia_Villagio_136-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Emilia_Villa_2.jpg"
+            ]
+        },
+        {
+            "name": "Fabriano European Oak Engineered Hardwood Flooring",
+            "description": "Fabrianoguarantees an economical choice within our Select grade collection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural European White Oak\u00a0color and style combination. This distinctive wood floor is cured with layers of UV Lacquer Finish to create both a natural feel and look while maintaining excellent protection. Together with light sanding and wire brushing treatments, these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "Prime AB",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "3mm",
+                "width": "7-1/2\u2033",
+                "color": "Light"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fabriano-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/CasaBianca-Fabriano_1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/CasaBianca-Fabriano_3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/CasaBianca-Fabriano_5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/CasaBianca-Fabriano_6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/fabriano-8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/CasaBianca-Fabriano_4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Fabriano_Installed-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2016/07/Fabriano-2web.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2016/07/Fabriano-1web.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2016/07/Fabriano-5web.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2016/07/Fabriano-4web.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2016/07/Fabriano-3web.jpg"
+            ]
+        },
+        {
+            "name": "Latteo European Oak Engineered Hardwood Flooring",
+            "description": "Latteoguarantees an economical choice within our Select ABC grade collection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural European White Oak color and style combination. This distinctive wood floor is cured with layers of UV Lacquer Finish to create both a natural feel and look while maintaining excellent protection. Together with light sanding and wire brushing treatments, these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "Prime AB",
+                "plank_length": "Random Up to 87\u2033 (Most pieces are 87\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "8-5/8\u2033",
+                "color": "Grey"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/LatteoSP-01.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/LatteoSP-05.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/LatteoSP-04.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/LatteoSP-03.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/LatteoSP-02.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo_Villa-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo_Villa-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo_Villa-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo_Villa-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo_Villa-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo_Villa-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo-Top-Down.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Latteo1.jpg"
+            ]
+        },
+        {
+            "name": "Vimini European Oak Engineered Hardwood Flooring",
+            "description": "Viminiis classic Natural European White Oak color and style combination. This distinctive wood floor is cured with layers of UV Lacquer Finish to create both a natural feel and look while maintaining excellent protection.",
+            "details": {
+                "finish": "Matte UV Lacquer",
+                "grade": "Select AB",
+                "plank_length": "Random Up to 7ft (Most pieces are 7ft)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "9-1/2\u2033",
+                "color": "Natural"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Vimini-01.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Vimini-12.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Vimini-103.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Vimini-15.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Vimini-14.jpg"
+            ]
+        }
+    ]
+}

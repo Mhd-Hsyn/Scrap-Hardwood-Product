@@ -1,0 +1,657 @@
+{
+    "name": "CrystalValley",
+    "products": [
+        {
+            "name": "Crystal Valley / White Oak Prairie Wheat \u2013 5\u201d",
+            "link": "https://www.garrisoncollection.com/product/white-oak-prairie-wheat-5",
+            "description": "Our Crystal Valley collection brings a sophisticated and elegant aesthetic that complements any space, whether it be contemporary and refined or traditional and inviting. With minimal divots and knots, and options in both Premium and Select grade, these smooth floors are all constructed from our highest quality raw materials and expertly finished with micro-beveled edges and our superior Urethane with Aluminum Oxide coating. Whether you prefer the clean, crisp tones of maple, the amber hues of red oak, or the balanced color of white oak, we are crystal clear you will fall in love with this collection.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GHCVO568",
+                "Species": "white oak",
+                "Construction": "Engineered",
+                "Grade": "Select",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Smooth",
+                "Janka_Rating": "1360",
+                "Thickness": "1/2\"",
+                "Top_Layer": "2.2 mm",
+                "Width": "5\"",
+                "Length": "Random 1.5' - 4.5'",
+                "Installation_Methods": "Nail, Staple, Glue, Float",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "Residential: Limited Lifetime Structure, Limited 25 Year Finish | Commercial: Limited 10 Year Structure, Limited 5 Year Finish"
+            },
+            "moduling": [
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 3 1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Stair Riser",
+                    "data:image/webp;base64,UklGRjIAAABXRUJQVlA4TCUAAAAvMIEJEA8wGRMxQvMf8FDathHU7j90+XfoQET/JwCnlSk/EpwWAA==",
+                    "Thickness: 3/4\"",
+                    "Length: Custom",
+                    "Width: 7 1/4\""
+                ],
+                [
+                    "Stair Tread",
+                    "data:image/webp;base64,UklGRtAAAABXRUJQVlA4TMQAAAAvMIEJEDcxGRMxQgraSFJjf8wPMj6wzkAQAAVGwBEQXBAABx8GRcDwIGA4AAgAAPEAECQcBAEAAXAbSZIiHT4zM3/57+ODXNFSRP/Rtm0bausFSdsLkNPjupmNm+J/GOq+7NsCrHu68JyWtsCu1YVzVxcuHV04Vbow9+U90IWjLwx9WfnybNHVBF0t0NUeXd3Q1Yt89QrY8SFg898kXzvsKl/3cMd8vSXM4/Ueeumk60/Htg3Xv7R1L1d/az+/t0d18bcC",
+                    "Thickness: 1\"",
+                    "Length: Custom",
+                    "Width: 11 3/4\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2021/11/Crystal-Valley-Prairie-Wheat-5-inch-Hardwood-Plank-768x513.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/prairie-wheat-3in2-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/edited-1-5-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2019/08/prairiewheat3.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2019/08/prairiewheat1.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2019/08/prairiewheat2.jpg"
+            ]
+        },
+        {
+            "name": "Crystal Valley / Maple Natural (Amber) \u2013 3\u00bc\u201d",
+            "link": "https://www.garrisoncollection.com/product/maple-natural-amber-3",
+            "description": "Our Crystal Valley collection brings a sophisticated and elegant aesthetic that complements any space, whether it be contemporary and refined or traditional and inviting. With minimal divots and knots, and options in both Premium and Select grade, these smooth floors are all constructed from our highest quality raw materials and expertly finished with micro-beveled edges and our superior Urethane with Aluminum Oxide coating. Whether you prefer the clean, crisp tones of maple, the amber hues of red oak, or the balanced color of white oak, we are crystal clear you will fall in love with this collection.PLEASE NOTE: Due to variations in maple sourced from different regions, natural maple is available in two different hues: white and amber. Please see the photos of both colors and contact us if you have any questions.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GHCVM31438",
+                "Species": "maple",
+                "Construction": "Engineered",
+                "Grade": "Premium",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Smooth",
+                "Janka_Rating": "1450",
+                "Thickness": "1/2\"",
+                "Top_Layer": "2.2 mm",
+                "Width": "3 1/4\"",
+                "Length": "Random 1.5' - 4.5'",
+                "Installation_Methods": "Nail, Staple, Glue",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "25 Year Residential Finish, 3 Year Commercial Finish, Lifetime Residential Structural, 10 Year Commercial Structural"
+            },
+            "moduling": [
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 3 1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Stair Riser",
+                    "data:image/webp;base64,UklGRjIAAABXRUJQVlA4TCUAAAAvMIEJEA8wGRMxQvMf8FDathHU7j90+XfoQET/JwCnlSk/EpwWAA==",
+                    "Thickness: 3/4\"",
+                    "Length: Custom",
+                    "Width: 7 1/4\""
+                ],
+                [
+                    "Stair Tread",
+                    "data:image/webp;base64,UklGRtAAAABXRUJQVlA4TMQAAAAvMIEJEDcxGRMxQgraSFJjf8wPMj6wzkAQAAVGwBEQXBAABx8GRcDwIGA4AAgAAPEAECQcBAEAAXAbSZIiHT4zM3/57+ODXNFSRP/Rtm0bausFSdsLkNPjupmNm+J/GOq+7NsCrHu68JyWtsCu1YVzVxcuHV04Vbow9+U90IWjLwx9WfnybNHVBF0t0NUeXd3Q1Yt89QrY8SFg898kXzvsKl/3cMd8vSXM4/Ueeumk60/Htg3Xv7R1L1d/az+/t0d18bcC",
+                    "Thickness: 1\"",
+                    "Length: Custom",
+                    "Width: 11 3/4\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2022/06/xCrystal-Valley-Natural-Maple-3.25-inch-Hardwood-Plank-768x513.jpg.pagespeed.ic.Nz0Qken0xt.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Contractors-Choice-Pacific-Hardwood-Nike-3-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Contractors-Choice-Pacific-Hardwood-Nike-11-1600x1013.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Contractors-Choice-Pacific-Hardwood-Nike.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Contractors-Choice-Pacific-Hardwood-Nike-7.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Contractors-Choice-Pacific-Hardwood-Nike-6.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/crystal-valley-Maple-1600x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/image1-1-780x1600.png",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Natural-5in-Engineered-Crystal-Valley-6-1173x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Natural-5in-Engineered-Crystal-Valley.jpg"
+            ]
+        },
+        {
+            "name": "Crystal Valley / Maple Natural (White) \u2013 3\u00bc\u201d",
+            "link": "https://www.garrisoncollection.com/product/maple-natural-3",
+            "description": "Our Crystal Valley collection brings a sophisticated and elegant aesthetic that complements any space, whether it be contemporary and refined or traditional and inviting. With minimal divots and knots, and options in both Premium and Select grade, these smooth floors are all constructed from our highest quality raw materials and expertly finished with micro-beveled edges and our superior Urethane with Aluminum Oxide coating. Whether you prefer the clean, crisp tones of maple, the amber hues of red oak, or the balanced color of white oak, we are crystal clear you will fall in love with this collection.PLEASE NOTE: Due to variations in maple sourced from different regions, natural maple is available in two different hues: white and amber. Please see the photos of both colors and contact us if you have any questions.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GHCVM31438W",
+                "Species": "maple",
+                "Construction": "Engineered",
+                "Grade": "Premium",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Smooth",
+                "Janka_Rating": "1450",
+                "Thickness": "1/2\"",
+                "Top_Layer": "2.2 mm",
+                "Width": "3 1/4\"",
+                "Length": "Random 1.5' - 4.5'",
+                "Installation_Methods": "Nail, Staple, Glue",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "25 Year Residential Finish, 3 Year Commercial Finish, Lifetime Residential Structural, 10 Year Commercial Structural"
+            },
+            "moduling": [
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 3 1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAA6CAMAAADvC54tAAABv1BMVEURGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIv7RCHAAAAlHRSTlMAAQIDBAYHCAoMDg8REhQVFxgZGhseICIjJCYpKiwuMDEyNDY3ODk6Ozw+P0NERkdJSk1OUFJVVldZW1xfYGJkZ2lqbnFydnl7fH2Ag4SFh4qLjpKTlpeZnJ6goaSmp6iqq6yusLKztre4ubq8vb7AwcLExsjJyszP0NLU1tfZ2t3e4uXm6err7O3v8fL09vj6/P3+vHxUHAAAAbJJREFUeNrt3GVPQmEAxXFAFERssbsTu0UwsFBBDFCxAxu7C7v7A7v51jeeTd0DO/+P8Nvdnruz+1zJhwi97vRVR0o8pA9hupg0ZvpRDOx5o6c8jGJo7pHGFDnFwB5XuosDKYZ2NKiPl1IM7G6uo8CfYmBvewO10RRDu5xuyVFQDOxly1oZQTG0s7GmNDnFwJ7WzKXBFEM7GTYkyigG9rBoKlRRDOz9wKaLpRjazWxrnpJi8MzWW62hGDyzTRgzfCkGz2yW8pC/EtN9z0vY3I7GZB8eBujMttxVrKYYPLPZ9XFSiqEzm7M9359i6My2218TRTF4ZptqyVJQDJ3ZNq0V4RSDZ7bRplQ5xdCZbdVcEkQxtOMhQ4KMYmD3CyatimLozLZvq4ulGNr1TGuukmLozLbdW6WhGNr5eHO6L8XQmW3dUhZCMbRTR0OSD8XQmW2ps0hNMfTl49Be/zWzee9q/RfdOtv4QKFRjGIUoxjFKMYoRjGKUYxijGIU81CxyX/6IPCnScs2xRZzCXgrXusSWGwvQMgrytnzooqdhop6ET556l1EsasYgX+3EO94/UWxT48p9Iji88N2AAAAAElFTkSuQmCC",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Stair Riser",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAAnAQMAAABdU+0ZAAAABlBMVEX///8RGUJL9JOdAAAAAXRSTlMAQObYZgAAAB1JREFUOMtjYBjk4D9RoGFU3ai6UXWj6oaMukEOAGtrpSMDaoEtAAAAAElFTkSuQmCC",
+                    "Thickness: 3/4\"",
+                    "Length: Custom",
+                    "Width: 7 1/4\""
+                ],
+                [
+                    "Stair Tread",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAAnCAMAAABQQ49oAAAAdVBMVEURGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKHmcH+AAAAJnRSTlMABAYJChUZIiozOEhLTFuEi5GaobK3u8PExsfIytvc4evz9vv8/l/ixygAAACySURBVGje7dpJDoJQEABRBJmcGBRnAcf7H9G4ZKOpHSb1jlAxpO3fwUtf3LptuZwGA1b56brOLUY1mcWgezGxGLSPLQZdUotBbWIx6BxaDKosBj1nFoNOFqPmFoM2FqOzf2wxaGUxqLYYdLAY1FsMeliMspi/Mb9jI3O0mPOYM7//K/+buwvK/RjkDhZyz0/5lgT5Xgn5Jg55dwHtvO1hs773Y4w3ioh3sMDn1noRDU6t3/IyzQkipakIAAAAAElFTkSuQmCC",
+                    "Thickness: 1\"",
+                    "Length: Custom",
+                    "Width: 11 3/4\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2021/11/Crystal-Valley-Natural-Maple-3.25-inch-Hardwood-Plank-768x513.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Natural-3-25-Crystal-Valley-1200x1600.png",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/06/court-1600x1120.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Natural-5in-Engineered-Crystal-Valley.jpg"
+            ]
+        },
+        {
+            "name": "Crystal Valley / Maple Natural \u2013 5\u2033",
+            "link": "https://www.garrisoncollection.com/product/maple-natural-5",
+            "description": "Our Crystal Valley collection brings a sophisticated and elegant aesthetic that complements any space, whether it be contemporary and refined or traditional and inviting. With minimal divots and knots, and options in both Premium and Select grade, these smooth floors are all constructed from our highest quality raw materials and expertly finished with micro-beveled edges and our superior Urethane with Aluminum Oxide coating. Whether you prefer the clean, crisp tones of maple, the amber hues of red oak, or the balanced color of white oak, we are crystal clear you will fall in love with this collection.PLEASE NOTE: Due to variations in maple sourced from different regions, natural maple is available in two different hues: white and amber. Please see the photos of both colors and contact us if you have any questions.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GNCVM538",
+                "Species": "maple",
+                "Construction": "Engineered",
+                "Grade": "Premium",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Smooth",
+                "Janka_Rating": "1450",
+                "Thickness": "9/16\"",
+                "Top_Layer": "4 mm",
+                "Width": "5\"",
+                "Length": "Random 1.5' - 4.5'",
+                "Installation_Methods": "Nail, Staple, Glue, Float",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "25 Year Residential Finish, 3 Year Commercial Finish, Lifetime Residential Structural, 10 Year Commercial Structural"
+            },
+            "moduling": [
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 3 1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Stair Riser",
+                    "data:image/webp;base64,UklGRjIAAABXRUJQVlA4TCUAAAAvMIEJEA8wGRMxQvMf8FDathHU7j90+XfoQET/JwCnlSk/EpwWAA==",
+                    "Thickness: 3/4\"",
+                    "Length: Custom",
+                    "Width: 7 1/4\""
+                ],
+                [
+                    "Stair Tread",
+                    "data:image/webp;base64,UklGRtAAAABXRUJQVlA4TMQAAAAvMIEJEDcxGRMxQgraSFJjf8wPMj6wzkAQAAVGwBEQXBAABx8GRcDwIGA4AAgAAPEAECQcBAEAAXAbSZIiHT4zM3/57+ODXNFSRP/Rtm0bausFSdsLkNPjupmNm+J/GOq+7NsCrHu68JyWtsCu1YVzVxcuHV04Vbow9+U90IWjLwx9WfnybNHVBF0t0NUeXd3Q1Yt89QrY8SFg898kXzvsKl/3cMd8vSXM4/Ueeumk60/Htg3Xv7R1L1d/az+/t0d18bcC",
+                    "Thickness: 1\"",
+                    "Length: Custom",
+                    "Width: 11 3/4\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/xCrystal-Valley-Natural-Maple-5-inch-Hardwood-Plank-768x513.jpg.pagespeed.ic.926ZrcjizH.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Garrison-Collection-Installed-by-Pacific-Hardwood-Nike-3-1066x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Garrison-Collection-Installed-by-Pacific-Hardwood-Nike-2-1600x900.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Garrison-Collection-Installed-by-Pacific-Hardwood-Nike-1-1600x1013.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2019/06/Maple-Chevron-Contractors-Choice-Pacific-Hardwood-Flooring-Nike-1.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/Maple-Contractors-Choice-Pacific-Hardwood-Nike-6.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/06/court-1600x1120.jpg"
+            ]
+        },
+        {
+            "name": "Crystal Valley / White Oak Prairie Wheat \u2013 3\u00bc\u201d",
+            "link": "https://www.garrisoncollection.com/product/prairie-wheat-white-oak",
+            "description": "Our Crystal Valley collection brings a sophisticated and elegant aesthetic that complements any space, whether it be contemporary and refined or traditional and inviting. With minimal divots and knots, and options in both Premium and Select grade, these smooth floors are all constructed from our highest quality raw materials and expertly finished with micro-beveled edges and our superior Urethane with Aluminum Oxide coating. Whether you prefer the clean, crisp tones of maple, the amber hues of red oak, or the balanced color of white oak, we are crystal clear you will fall in love with this collection.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GHCVO31468",
+                "Species": "white oak",
+                "Construction": "Engineered",
+                "Grade": "Select",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Smooth",
+                "Janka_Rating": "1360",
+                "Thickness": "1/2\"",
+                "Top_Layer": "2.2 mm",
+                "Width": "3 1/4\"",
+                "Length": "Random 1.5' - 4.5'",
+                "Installation_Methods": "Nail, Staple, Glue",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "25 Year Residential Finish, 3 Year Commercial Finish, Lifetime Residential Structural, 10 Year Commercial Structural"
+            },
+            "moduling": [
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 3 1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Stair Riser",
+                    "data:image/webp;base64,UklGRjIAAABXRUJQVlA4TCUAAAAvMIEJEA8wGRMxQvMf8FDathHU7j90+XfoQET/JwCnlSk/EpwWAA==",
+                    "Thickness: 3/4\"",
+                    "Length: Custom",
+                    "Width: 7 1/4\""
+                ],
+                [
+                    "Stair Tread",
+                    "data:image/webp;base64,UklGRtAAAABXRUJQVlA4TMQAAAAvMIEJEDcxGRMxQgraSFJjf8wPMj6wzkAQAAVGwBEQXBAABx8GRcDwIGA4AAgAAPEAECQcBAEAAXAbSZIiHT4zM3/57+ODXNFSRP/Rtm0bausFSdsLkNPjupmNm+J/GOq+7NsCrHu68JyWtsCu1YVzVxcuHV04Vbow9+U90IWjLwx9WfnybNHVBF0t0NUeXd3Q1Yt89QrY8SFg898kXzvsKl/3cMd8vSXM4/Ueeumk60/Htg3Xv7R1L1d/az+/t0d18bcC",
+                    "Thickness: 1\"",
+                    "Length: Custom",
+                    "Width: 11 3/4\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/xPRAIRIEWHEAT-3.25-768x513.jpg.pagespeed.ic.qbNXOgqoo6.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/prairie-wheat-3in2-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/edited-1-5-1600x1067.jpg"
+            ]
+        },
+        {
+            "name": "Crystal Valley / Red Oak Natural \u2013 3\u00bc\u201d",
+            "link": "https://www.garrisoncollection.com/product/red-oak-natural-3",
+            "description": "Our Crystal Valley collection brings a sophisticated and elegant aesthetic that complements any space, whether it be contemporary and refined or traditional and inviting. With minimal divots and knots, and options in both Premium and Select grade, these smooth floors are all constructed from our highest quality raw materials and expertly finished with micro-beveled edges and our superior Urethane with Aluminum Oxide coating. Whether you prefer the clean, crisp tones of maple, the amber hues of red oak, or the balanced color of white oak, we are crystal clear you will fall in love with this collection.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GHCVR31438",
+                "Species": "red oak",
+                "Construction": "Engineered",
+                "Grade": "Select",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Smooth",
+                "Janka_Rating": "1290",
+                "Thickness": "1/2\"",
+                "Top_Layer": "2.2 mm",
+                "Width": "3 1/4\"",
+                "Length": "Random 1.5' - 4.5'",
+                "Installation_Methods": "Nail, Staple, Glue",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "25 Year Residential Finish, 3 Year Commercial Finish, Lifetime Residential Structural, 10 Year Commercial Structural"
+            },
+            "moduling": [
+                [
+                    "Baby Threshold",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABklBMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUJRR+sSAAAAhXRSTlMAAAECAwQFBgcJCgwOEBIUFRcYGRscHiAiJCUmJyksLzI0NTc4Oj4/QkZHSUtNTlBSVVddX2BhY2RobG5yc3d5ent9foKDiImNj5CSk5aXmZ6ipaiqra+ztLm8vb/Bw8THyszP0NLT1dbY29zf4OHi4+Xm6evt7/Dx8/T19vf4+fr7/P3+miansgAAAfZJREFUeNrt3Xk3VHEcgPHbMMOYNLbSgiyRhEiSaKWQNaVF0irRjomQNOb7vjv+6Jw6OWfc79y5nfv7Pc9L+LyBxzlA7nMgQA011FCjXTXHVfGhbQluTyuczHOtFr2+KoFu62bEb7Vw1xcJfG/q/FVrmRcTSg3H/FM7NSum9KnZJ7UTU2JS94p9UCsZTYpZJS6GsqwW618X83pyLJtqkcvLYmSbV8PZUgu1L4qxvarJjtrpF2JyO4MF3qtVPRLTe9/ksdrhiZRY0N24h2qFA9/FjlY6vFLLv5IQe3pc7oVaTscHsaqN3tyM1c68Fut6eTIzteppsbHk7ahe7eik2Nq7RqVa/M62WNzEIYVa9Maa2N3yebdq4UtLQg+PuFJrfQvZbt96cvatVj+L1++eV+1PrWIKqz/6eSs/vVrpWBKpv1toSKu2jtK/jRemUYNor5baUNP0oAw1RWvdIdQUPatETdGPvjzUFM3Xo6YoNXIQNUWfW1HTdL8ENUVfu0KoKZo5jpqirWsR1BTN1aKmaGcohpqij2dR0zRZhJqixAXUNKGGGmqoGal2LrgN/z81J7h1ooYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqKGGGmqooYYaaqihhhpqqNmmRrzPUEMNNdQgUPQL5j94FHcKkxIAAAAASUVORK5CYII=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATUAAABkCAMAAADQZFfQAAABO1BMVEURGUL///8RGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKVIJI7AAAAaHRSTlMAAAECAwQFBgoODxATFhcYHB4hIiUnKi0uMDI0Ojs9QkdISVBSWFlba3BydXl7fH1/gIOEh4qMkJKVmJqcpKWnrK2vsLGztLW4ury+wMHCw8fIycrM0NTa297i5Ofo6vDy9Pf5+vv9/siof7QAAAH6SURBVHja7d3ZUhNBFIfxHkMkrAoEZQ1REIGIoODC4oLILgFZVfaIwvs/ARdwAaQ7w/lfpID6vhc4Vb/qqpnpizMuInsOAtRQQw01Qg218qmd0kV/txcm+tqTLibUPBXyuTRqSluDdagJHX/uQE1pvg01pa+NqClPhldJ1IQ20qgJHfWipvS+AjWhbynUhJaqURNaS6GmnLZK1IS+PEBNaAg1oZNnV9RqPM2hVNT+o8tqvqZBKm4GNaWXqAntVaMmNIKacv9Rh5rQB9SECrWoCeVQE/qdQE0oi5rQJGrK12jiXK3b0xo8oTLcFAm9RU1oATWhwwRqQk9QE+pBTWgANaGPqAl9R00oj5rQJmqooYbaPWsliqLIvbnjjZdZbTZ4K3mXai2z2gRqQsOoCb1ATagFNXuFJGr2Vh1q9kZRE+pCzd7BQ9TsfXKo2XuOmr2dCtSEzymHmv0Vtx41e2MONftRe4yavXcONXO7VajZ63WomZt2qJnbr0fN3EnWoWZu0KFm7vpmCtRu0OL1LSioxfezaOMOarEtF293Qi0u3yYx1GLybq1DrWSBDYmolWq92aFmvVALbn5FLfwYaPINRK1UPzL+gagF+z+VCQ1ELdCv1w3hgah5Os4PPS05ELUr/fuTn+zvTMUN5G83/CMINdRQI9RQQ+32dwZzy08rMqjDTQAAAABJRU5ErkJggg==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 3 1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAA6CAMAAADvC54tAAABv1BMVEURGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIv7RCHAAAAlHRSTlMAAQIDBAYHCAoMDg8REhQVFxgZGhseICIjJCYpKiwuMDEyNDY3ODk6Ozw+P0NERkdJSk1OUFJVVldZW1xfYGJkZ2lqbnFydnl7fH2Ag4SFh4qLjpKTlpeZnJ6goaSmp6iqq6yusLKztre4ubq8vb7AwcLExsjJyszP0NLU1tfZ2t3e4uXm6err7O3v8fL09vj6/P3+vHxUHAAAAbJJREFUeNrt3GVPQmEAxXFAFERssbsTu0UwsFBBDFCxAxu7C7v7A7v51jeeTd0DO/+P8Nvdnruz+1zJhwi97vRVR0o8pA9hupg0ZvpRDOx5o6c8jGJo7pHGFDnFwB5XuosDKYZ2NKiPl1IM7G6uo8CfYmBvewO10RRDu5xuyVFQDOxly1oZQTG0s7GmNDnFwJ7WzKXBFEM7GTYkyigG9rBoKlRRDOz9wKaLpRjazWxrnpJi8MzWW62hGDyzTRgzfCkGz2yW8pC/EtN9z0vY3I7GZB8eBujMttxVrKYYPLPZ9XFSiqEzm7M9359i6My2218TRTF4ZptqyVJQDJ3ZNq0V4RSDZ7bRplQ5xdCZbdVcEkQxtOMhQ4KMYmD3CyatimLozLZvq4ulGNr1TGuukmLozLbdW6WhGNr5eHO6L8XQmW3dUhZCMbRTR0OSD8XQmW2ps0hNMfTl49Be/zWzee9q/RfdOtv4QKFRjGIUoxjFKMYoRjGKUYxijGIU81CxyX/6IPCnScs2xRZzCXgrXusSWGwvQMgrytnzooqdhop6ET556l1EsasYgX+3EO94/UWxT48p9Iji88N2AAAAAElFTkSuQmCC",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/png;base64,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",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Stair Riser",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAAnAQMAAABdU+0ZAAAABlBMVEX///8RGUJL9JOdAAAAAXRSTlMAQObYZgAAAB1JREFUOMtjYBjk4D9RoGFU3ai6UXWj6oaMukEOAGtrpSMDaoEtAAAAAElFTkSuQmCC",
+                    "Thickness: 3/4\"",
+                    "Length: Custom",
+                    "Width: 7 1/4\""
+                ],
+                [
+                    "Stair Tread",
+                    "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATEAAAAnCAMAAABQQ49oAAAAdVBMVEURGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUIRGUKHmcH+AAAAJnRSTlMABAYJChUZIiozOEhLTFuEi5GaobK3u8PExsfIytvc4evz9vv8/l/ixygAAACySURBVGje7dpJDoJQEABRBJmcGBRnAcf7H9G4ZKOpHSb1jlAxpO3fwUtf3LptuZwGA1b56brOLUY1mcWgezGxGLSPLQZdUotBbWIx6BxaDKosBj1nFoNOFqPmFoM2FqOzf2wxaGUxqLYYdLAY1FsMeliMspi/Mb9jI3O0mPOYM7//K/+buwvK/RjkDhZyz0/5lgT5Xgn5Jg55dwHtvO1hs773Y4w3ioh3sMDn1noRDU6t3/IyzQkipakIAAAAAElFTkSuQmCC",
+                    "Thickness: 1\"",
+                    "Length: Custom",
+                    "Width: 11 3/4\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2021/11/NATURAL-REDOAK_3.25-SL-768x513.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/CV_RO3_gallery-5-1600x1200.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/CV_RO3_gallery-4-1600x1200.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/CV_RO3_gallery-3-1200x1600.jpg"
+            ]
+        },
+        {
+            "name": "Crystal Valley / Red Oak Natural \u2013 5\u2033",
+            "link": "https://www.garrisoncollection.com/product/red-oak-natural-5",
+            "description": "Our Crystal Valley collection brings a sophisticated and elegant aesthetic that complements any space, whether it be contemporary and refined or traditional and inviting. With minimal divots and knots, and options in both Premium and Select grade, these smooth floors are all constructed from our highest quality raw materials and expertly finished with micro-beveled edges and our superior Urethane with Aluminum Oxide coating. Whether you prefer the clean, crisp tones of maple, the amber hues of red oak, or the balanced color of white oak, we are crystal clear you will fall in love with this collection.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GHCVR538",
+                "Species": "red oak",
+                "Construction": "Engineered",
+                "Grade": "Select",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Smooth",
+                "Janka_Rating": "1290",
+                "Thickness": "1/2\"",
+                "Top_Layer": "2.2 mm",
+                "Width": "5\"",
+                "Length": "Random 1.5' - 4.5'",
+                "Installation_Methods": "Nail, Staple, Glue, Float",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "25 Year Residential Finish, 3 Year Commercial Finish, Lifetime Residential Structural, 10 Year Commercial Structural"
+            },
+            "moduling": [
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 3 1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Stair Riser",
+                    "data:image/webp;base64,UklGRjIAAABXRUJQVlA4TCUAAAAvMIEJEA8wGRMxQvMf8FDathHU7j90+XfoQET/JwCnlSk/EpwWAA==",
+                    "Thickness: 3/4\"",
+                    "Length: Custom",
+                    "Width: 7 1/4\""
+                ],
+                [
+                    "Stair Tread",
+                    "data:image/webp;base64,UklGRtAAAABXRUJQVlA4TMQAAAAvMIEJEDcxGRMxQgraSFJjf8wPMj6wzkAQAAVGwBEQXBAABx8GRcDwIGA4AAgAAPEAECQcBAEAAXAbSZIiHT4zM3/57+ODXNFSRP/Rtm0bausFSdsLkNPjupmNm+J/GOq+7NsCrHu68JyWtsCu1YVzVxcuHV04Vbow9+U90IWjLwx9WfnybNHVBF0t0NUeXd3Q1Yt89QrY8SFg898kXzvsKl/3cMd8vSXM4/Ueeumk60/Htg3Xv7R1L1d/az+/t0d18bcC",
+                    "Thickness: 1\"",
+                    "Length: Custom",
+                    "Width: 11 3/4\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/xNATURAL-REDOAK-5-SL-768x513.jpg.pagespeed.ic.qi_CstGi-Y.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/photo-3-1600x1195.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/photo-4-1600x1195.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/photo-2-1600x1195.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/photo-5-1195x1600.jpg"
+            ]
+        },
+        {
+            "name": "Crystal Valley / White Oak Natural \u2013 5\u2033",
+            "link": "https://www.garrisoncollection.com/product/white-oak-natural-5",
+            "description": "Our Crystal Valley collection brings a sophisticated and elegant aesthetic that complements any space, whether it be contemporary and refined or traditional and inviting. With minimal divots and knots, and options in both Premium and Select grade, these smooth floors are all constructed from our highest quality raw materials and expertly finished with micro-beveled edges and our superior Urethane with Aluminum Oxide coating. Whether you prefer the clean, crisp tones of maple, the amber hues of red oak, or the balanced color of white oak, we are crystal clear you will fall in love with this collection.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GHCVO538",
+                "Species": "white oak",
+                "Construction": "Engineered",
+                "Grade": "Select",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Smooth",
+                "Janka_Rating": "1360",
+                "Thickness": "1/2\"",
+                "Top_Layer": "2.2 mm",
+                "Width": "5\"",
+                "Length": "Random 1.5' - 4.5'",
+                "Installation_Methods": "Nail, Staple, Glue, Float",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "25 Year Residential Finish, 3 Year Commercial Finish, Lifetime Residential Structural, 10 Year Commercial Structural"
+            },
+            "moduling": [
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 3 1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Stair Riser",
+                    "data:image/webp;base64,UklGRjIAAABXRUJQVlA4TCUAAAAvMIEJEA8wGRMxQvMf8FDathHU7j90+XfoQET/JwCnlSk/EpwWAA==",
+                    "Thickness: 3/4\"",
+                    "Length: Custom",
+                    "Width: 7 1/4\""
+                ],
+                [
+                    "Stair Tread",
+                    "data:image/webp;base64,UklGRtAAAABXRUJQVlA4TMQAAAAvMIEJEDcxGRMxQgraSFJjf8wPMj6wzkAQAAVGwBEQXBAABx8GRcDwIGA4AAgAAPEAECQcBAEAAXAbSZIiHT4zM3/57+ODXNFSRP/Rtm0bausFSdsLkNPjupmNm+J/GOq+7NsCrHu68JyWtsCu1YVzVxcuHV04Vbow9+U90IWjLwx9WfnybNHVBF0t0NUeXd3Q1Yt89QrY8SFg898kXzvsKl/3cMd8vSXM4/Ueeumk60/Htg3Xv7R1L1d/az+/t0d18bcC",
+                    "Thickness: 1\"",
+                    "Length: Custom",
+                    "Width: 11 3/4\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/xCrystal-Valley-White-Oak-Natural-5-inch-Hardwood-Flooring-768x513.jpg.pagespeed.ic._JwYGor4Z8.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/photo-1200x1600.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/image-2-1600x1200.jpeg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/image-1200x1600.jpeg"
+            ]
+        },
+        {
+            "name": "Crystal Valley / White Oak Natural \u2013 3\u00bc\u201d",
+            "link": "https://www.garrisoncollection.com/product/white-oak-natural-3",
+            "description": "Our Crystal Valley collection brings a sophisticated and elegant aesthetic that complements any space, whether it be contemporary and refined or traditional and inviting. With minimal divots and knots, and options in both Premium and Select grade, these smooth floors are all constructed from our highest quality raw materials and expertly finished with micro-beveled edges and our superior Urethane with Aluminum Oxide coating. Whether you prefer the clean, crisp tones of maple, the amber hues of red oak, or the balanced color of white oak, we are crystal clear you will fall in love with this collection.Please note: The beauty of hardwood flooring lies in natural variations in color, grain, and texture inherent in all wood products. In addition, although we color calibrate all of our photos, colors may appear differently on different monitors and devices and flooring will vary in hue and saturation based on differing lighting conditions. Please expect variation in all flooring. We highly recommend seeing a sample board of flooring in person before making your decision, and understanding that flooring may vary slightly from these boards. Please contact us for more information and to be connected to a sales representative who will point you in the right direction.",
+            "details": {
+                "Product_Number": "GHCVO31438",
+                "Species": "white oak",
+                "Construction": "Engineered",
+                "Grade": "Select",
+                "Finish": "Urethane with Aluminum Oxide",
+                "Surface_Treatment": "Smooth",
+                "Janka_Rating": "1360",
+                "Thickness": "1/2\"",
+                "Top_Layer": "2.2 mm",
+                "Width": "3 1/4\"",
+                "Length": "Random 1.5' - 4.5'",
+                "Installation_Methods": "Nail, Staple, Glue",
+                "Edge_Detail": "Micro-Beveled",
+                "Warranty": "25 Year Residential Finish, 3 Year Commercial Finish, Lifetime Residential Structural, 10 Year Commercial Structural"
+            },
+            "moduling": [
+                [
+                    "Baby Threshold",
+                    "data:image/webp;base64,UklGRrwBAABXRUJQVlA4TK8BAAAvNMEYECekoG0bxjTGH2n3MEzECCFo27apJ+kuIEnogN3AqwErCOAE4CWMBSEEh4EBhDVmQAjiLxqGQQxgmwBwEYwPAYjDEIIIYgCHFnQUYNkRQP03ukwt7hcAhG3bjiezmW3btm3XcsuYkev+833f++15ckT/J0D1y7Zj4hmJ/E62Ipn6w0jwHwf1iqNruwMBT4oUpsYLGr5PWRSk2AM63lQrRdYKaLnkUgL3zCuoGWxVi84yHANFtzKEpu/0g6j3vTphqRvOQdjDAkGV7YO2b+NmAeWug76XlaJJmX8HiRccIrGNPYDKgSZhGHuCoPRGmhA0TVcgdrxbK7+KIxD8IE9m+Zug+euoSUbpi6D7RblcHJPPIP28XQ6mgQio72+UnK7dBw5cS5VW7SmYMNqlkU6JB4y4lyuR7BXw4suIUQJJs69gx7PSj4uBJedsHwWm9NWzDLCazDKIdKg5BtjNYRk8DRk4BvCWsAzep60cA9zWsgyw7GYZhNrUHANsZ7IMHvv0HAMcF7IM3iYsHANcV7EMsOhkGQSbWQb4uaYukZ9SsIS+5d9///77984voAA=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Nosing",
+                    "data:image/webp;base64,UklGRsQBAABXRUJQVlA4TLcBAAAvNMEYED9jkG2karw/6d09xESMEOO2bQMnT1LS9nlE0zZUzWVv4LsBC4MBACEAMBABBBECEEIcALFYAHAHwI+FCAMBgAABhCAGIgQhHoBYEMwWghDC+QEAEIPBAWgPIA6E6MEAIEi2bdo533Zs27Zt+xtn/mOIk/feX2FF9H8C5N+0CmLuameuu85Jy9PZw74EMI8vB4LEqOYX64lR1e1aZFSXY8hott9JjOp5AhnNdCKjOulARlc9yOieDxk99SCje25kdMmGjA4xU2p5mf9Nt4jQZPhFb7uGhG4wo13MPPiQ0TFmMkFkdIqZbAAZ7WPmxo6MNjMzz0zS/kTbm56CoY1PKK2jzOwwk7Yjo5XMtDPTy8w0M+vMHDJz8SvN0aMRyz9rOpuPrH+N6cwxM8xMBzPVyGSdyBwLMuPMNCGTciGzIMi0InPnQGZYiMmGkJkRYrIRZCaEmHsvMp1CzJoQkwwRU2oWYgaEmCUbMbtuAebEI8Ac+ASYVY8AM+kQXjKdUpYa3VmF8JLtdwovq3EpWw1sv1HKWKMqrjRKWWtM14NRKXONJ384VCXlr5EUbg/nexo88q9cAA==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 3 1/2\""
+                ],
+                [
+                    "Reducer",
+                    "data:image/webp;base64,UklGRtABAABXRUJQVlA4TMQBAAAvMEEOEKfEoG0bQabx/Jk2u8cwESNkIG1b/HQ3m7ZN0nZW38B9AwAEgBCC3QgAGEqCDZMoysHhjysONs4jQIDHAI8hAAw7WAwfKHqY4BGTP4zfpwYa+6pioIMCwJZs27Rzru0b27Zt27Zt23b+eK042Xe+JaL/E/Aqhk8brVnukigLAns6XBauxgp9WGlKs2OFPeorDlJihd7N1yeZsMLudRX4yrBCryer43RYoc9b7TmeWGHPRsujNFihj2vNGU6ssMcDJSFKrND7pYYUC1bYg55CfzlW6O1MTYIeK/RlpyPPGyvs5XhFjBYr9GmjJcsNK+zpUFmYCiv0YaUxzfpr5X2mK8Ae9RYHKn6jT3UZ6N1cXZIRK+xeZ4GPDCv0eqIqVocV+rzZlu2BFfZspDxCgxX6uNqc7sAKe9xfEqzECr1fbEg2Y4Xd7y70k2OF3kzXxOuxQl+2O3K9scJejFVEa7FCn9ZbMt2wwp4MloaqsEIflhtTrVhhD3uLAhRYoXeztYlGrNCX3c58H5kk5X0mKtiricrXf/+77sMKSTBlqauCs6CWBDR+QWS2DJKYRk4Jy6FNEtbAkRchOfeSRNa39+lXAQ==",
+                    "Thickness: 1/2\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "T-Moulding",
+                    "data:image/webp;base64,UklGRnIDAABXRUJQVlA4TGYDAAAvMMEYEA+GoG3bhMb5M03bncJEjJCCtA1Y2O6YTdsGz6XKG8BbcILMA1gMUAgEckhKoGIYksIrDrRQAShaXlx1l6AZEFqzDlHb1iKiCfBFiHJ+C7fRfwIhQQAYQ5Kytm3btm3btm1bZ9vG2rv52hnpzvki+s/Ibdsw4K25t92mfQAETFbH2M4rKCY1v6Kxe2h8ce3StTsPXq+vr2/jpxysv/PwwbWra6vjY90t1UUZsSE+ThZ6isAmFWOP8NTSxoGFyw+28fvaf3ZjdaS1Ijva11JTAvgha+AZXdA4fPbuLtJ09PTidGtZop+ZEog+OfPAtOqh889OUTDeXptszAmzVwfxpWwTmte5+hiF682l/vIYF20QRdpeKQ0rz1AsbF7ozg00lAKxoumd1XVmHcXI/vXBkhBDcTmRpC0iqhaeo9jZOtuc7KQkBueufVLn1QMUT6d3R/K8VUGopKzimi8doCi705/lKrgbt1Zw1ZkdFHcnN9vjjAWyn0paJvXcRS68nsp3VyC+U7oWLmwgN44u1AZpkJ0t7SJXTq/VURtJfzDjzvsRlXPbKGViE7l0fKbY+Xs/j6iHtN1Hbq2PJRl8r5mEbfH5E2TavUZ/+W++ohjU/gx5tzMRr/sNV/RT5/fxh8CVUgfJb7FiXX4dfyS8aPWT+bqnB+eae/jjYaM35EufQmS8m5/hj4q90ajPXw2lvDvf4o+No7lPLki6Nb7CHyH7o2EKAAB2NY/wx8n2QIDcPfzRso5/p/vvvyAhqkE61oKECITIC+moAiaZIB2ZwCQlpCMMuLSFZLgAl24hGQbApWUkQw641EfnlxtgUyVScR3YlI5UzAObQpGKDmCTE1JRDmzSQyqSgE2ySEUA8OklEmEHfLqKRGgDn2ap/FYpCXxqRRqeAKOKkYYLwKgEpGEMGOWPNDQBo6yRhnxglCbSEAOcOkQSfIBTD5AEU+DUOSRBDTg1jBTsAqvqkYLbwKpcGkEHsCoSKRgAVnkRKWBYZUykgGGVEpEChlebNAoYXt2iUcDwaolGAcOrXhIFDLMqSRQwzEojUcAwK5REAcMsRxIFDLP0SBQwzJIhUcBw6yWFAoZbVygUMNyaoVDAcKuVQgHDrWIKBQy3EigUMNzyp1DAcMuaQgHDLU0KBQy7DsW6gAE=",
+                    "Thickness: 5/8\"",
+                    "Length: 8'",
+                    "Width: 2\""
+                ],
+                [
+                    "Stair Riser",
+                    "data:image/webp;base64,UklGRjIAAABXRUJQVlA4TCUAAAAvMIEJEA8wGRMxQvMf8FDathHU7j90+XfoQET/JwCnlSk/EpwWAA==",
+                    "Thickness: 3/4\"",
+                    "Length: Custom",
+                    "Width: 7 1/4\""
+                ],
+                [
+                    "Stair Tread",
+                    "data:image/webp;base64,UklGRtAAAABXRUJQVlA4TMQAAAAvMIEJEDcxGRMxQgraSFJjf8wPMj6wzkAQAAVGwBEQXBAABx8GRcDwIGA4AAgAAPEAECQcBAEAAXAbSZIiHT4zM3/57+ODXNFSRP/Rtm0bausFSdsLkNPjupmNm+J/GOq+7NsCrHu68JyWtsCu1YVzVxcuHV04Vbow9+U90IWjLwx9WfnybNHVBF0t0NUeXd3Q1Yt89QrY8SFg898kXzvsKl/3cMd8vSXM4/Ueeumk60/Htg3Xv7R1L1d/az+/t0d18bcC",
+                    "Thickness: 1\"",
+                    "Length: Custom",
+                    "Width: 11 3/4\""
+                ]
+            ],
+            "images": [
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/xCrystal-Valley-White-Oak-Natural-3.25-inch-Hardwood-Flooring-768x513.jpg.pagespeed.ic.77E8hE5j0_.webp",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/3-14-white-oak-natural-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2015/05/3-14-white-oak-natural-1-1600x1067.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2021/07/Crystal-Valley-3-14-white-oak-2.0-1600x1200.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2021/07/Crystal-Valley-3-14-white-oak-1.0-1600x1200.jpg",
+                "https://www.garrisoncollection.com/wordpress/wp-content/uploads/2021/07/Crystal-Valley-3-14-white-oak-3.0-1600x1200.jpg"
+            ]
+        }
+    ]
+}

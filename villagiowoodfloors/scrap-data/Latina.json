@@ -1,0 +1,101 @@
+{
+    "name": "Latina",
+    "products": [
+        {
+            "name": "Bari Maple Engineered Hardwood Flooring",
+            "description": "Bariguarantees an economical choice within our\u00a0ABCD character grade Maple. We assure you the smooth surface selection will give a modern feel to your current or upcoming renovation with its classic\u00a0light grey Maple\u00a0color and style combination. This distinctive wood floor is cured with layers of UV\u00a0Lacquer to achieve excellent protection together with a\u00a0satin sheen and is also\u00a0smooth\u00a0for the interest of elegant texture while maintaining a sleek presentation.",
+            "details": {
+                "finish": "Satin UV Urethane",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Smooth",
+                "thickness": "5/8\"",
+                "wear_layer": "3mm",
+                "width": "6-1/2\u2033",
+                "color": "Grey"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bari-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bari-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bari-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bari-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bari-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bari-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bari-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Bari_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Bolzano Maple Engineered Hardwood Flooring",
+            "description": "Bolzanoguarantees an economical choice within our\u00a0ABCD character grade Maple. We assure you the smooth surface selection will give a modern feel to your current or upcoming renovation with its classic\u00a0neutral Maple\u00a0color and style combination. This distinctive wood floor is cured with layers of UV\u00a0Lacquer to achieve excellent protection together with a\u00a0satin sheen and is also\u00a0smooth\u00a0for the interest of elegant texture while maintaining a sleek presentation.",
+            "details": {
+                "finish": "Satin UV Urethane",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Smooth",
+                "thickness": "5/8\"",
+                "wear_layer": "3mm",
+                "width": "6-1/2\u2033",
+                "color": "Dark"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bolzano-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bolzano-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bolzano-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bolzano-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bolzano-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bolzano-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/bolzano-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Bolzano_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Casoria Maple Engineered Hardwood Flooring",
+            "description": "Casoriaguarantees an economical choice within our ABCD character grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural Maple color and style combination. This distinctive wood floor is cured with layers of Satin Sheen UV\u00a0Lacquer to create both a natural feel and look while maintaining excellent protection.\u00a0Together with light sanding and wire brushing treatments, these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Satin UV Urethane",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Smooth",
+                "thickness": "5/8\"",
+                "wear_layer": "3mm",
+                "width": "6-1/2\u2033",
+                "color": "Grey"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/casoria-8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/casoria-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/casoria-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/casoria-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/casoria-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/casoria-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/casoria-9.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Casoria_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Gela Maple Engineered Hardwood Flooring",
+            "description": "Gelaguarantees an economical choice within our\u00a0ABCD character grade Maple. We assure you the smooth surface selection will give a modern feel to your current or upcoming renovation with its classic\u00a0natural Maple\u00a0color and style combination. This distinctive wood floor is cured with layers of UV\u00a0Lacquer to achieve excellent protection together with a\u00a0satin sheen and is also\u00a0smooth\u00a0for the interest of elegant texture while maintaining a sleek presentation.",
+            "details": {
+                "finish": "Satin UV Urethane",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Smooth",
+                "thickness": "5/8\"",
+                "wear_layer": "3mm",
+                "width": "6-1/2\u2033",
+                "color": "Light"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/6_Villagio_Gela-118-FullSizeJPG-V-Main-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/6_Villagio_Gela-098-FullSizeJPG-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/6_Villagio_Gela-108-FullSizeJPG-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/6_Villagio_Gela-112-FullSizeJPG-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/6_Villagio_Gela-113-FullSizeJPG-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/6_Villagio_Gela-116-FullSizeJPG-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/6_Villagio_Gela-117-FullSizeJPG-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Gela_Installed-1.jpg"
+            ]
+        }
+    ]
+}

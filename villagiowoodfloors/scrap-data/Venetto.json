@@ -1,0 +1,222 @@
+{
+    "name": "Venetto",
+    "products": [
+        {
+            "name": "Ancona Natural/Rustic Engineered Hardwood Flooring",
+            "description": "Anconaguarantees an economical choice within our wide planked Rustic grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its pale distressed color and style combination. This distinctive wood floor is cured with layers of Matte Finish to create both a natural feel and look while maintaining excellent protection. Together with light gloss and wire brushing treatments these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Oil",
+                "grade": "Rustic",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "7-1/2\u2033",
+                "color": "Grey"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Ancona_650x555.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Ancona_03.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Ancona-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Ancona_06.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Ancona_05.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Ancona_01.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Ancona-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Ancona_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Avorio Natural/Rustic Engineered Hardwood Flooring",
+            "description": "Avorioguarantees an economical choice within our Rustic grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic pale color and style combination. This distinctive wood floor is cured with layers of Matte Oil Finish to create both a natural feel and look while maintaining excellent protection. Together with light gloss and wire brushing treatments these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Oil",
+                "grade": "Rustic",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "7-1/2\u2033",
+                "color": "Light"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Avorio_650x555-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Avorio_1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Avorio_2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Avorio_3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Avorio_4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Avorio_5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Avorio_6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Avorio_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Capua Natural/Rustic Engineered Hardwood Flooring",
+            "description": "Capuaguarantees an economical choice within our Rustic grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its smokey brown color and style combination. This distinctive wood floor is cured with layers of Matte Oil Finish to create both a natural feel and look while maintaining excellent protection. Together with light gloss and wire brushing treatments these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Oil",
+                "grade": "Rustic",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "7-1/2\u2033",
+                "color": "Dark"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Capua-650x550-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Capua-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Capua-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Capua-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Capua-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Capua-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villagio-Venneto-Capua-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/capua.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Capua_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Lucca Natural/Rustic Engineered Hardwood",
+            "description": "Luccapromises an economical choice within our wide planked ABCD grade selection and is guaranteed to add a contemporary\u00a0feel to your current or upcoming renovation with its shadowy brown\u00a0color and style combination. This distinctive wood floor is cured with layers of Matte Finish to create both a natural feel and look while maintaining excellent protection. Together with light gloss and wire brushing treatments these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Oil",
+                "grade": "Rustic",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "7-1/2\u2033",
+                "color": "Light"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lucca-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lucca-7-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lucca-8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lucca-6-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lucca-5-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lucca-4-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lucca-3-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Campania-1-600x800-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Campania-Angle-4-main-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Campania-Angle-1-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Campania-Angle-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Campania-Angle-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/lucca-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Lucca_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Marmo European Oak Engineered Hardwood",
+            "description": "Marmopromises an economical choice within our Character grade selection and is guaranteed to add a contemporary feel to your current or upcoming renovation with its light brown vintage color and style combination. This wood floor is finished with several layers of UV lacquer in order to achieve a special finish which provides leveling, protection, as well as a light sheen. These floors are lightly wire brushed to create the benefit of fine texture while still maintaining a smooth appearance and overall feel.",
+            "details": {
+                "finish": "Matte UV Urethane Aluminum Oxide Finish",
+                "grade": "ABCD (Character)",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Light Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "3mm",
+                "width": "7-1/2\u2033",
+                "color": "Light"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Marmo-1a.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Marmo-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Marmo-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Marmo-4.jpg"
+            ]
+        },
+        {
+            "name": "Novara Natural/Rustic Engineered Hardwood Flooring",
+            "description": "Novaraguarantees an economical choice within our Rustic grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural White Oak\u00a0color and style combination. This distinctive wood floor is cured with layers of Matte Finish to create both a natural feel and look while maintaining excellent protection. Together with light gloss and wire brushing treatments these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Oil",
+                "grade": "Rustic",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "7-1/2\u2033",
+                "color": "Dark"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/novara-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Novara-01.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Novara-02.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Novara-03.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Novara-04.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Novara-05.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venneto-Novara-06.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Novara_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Savona Natural/Rustic Engineered Hardwood Flooring",
+            "description": "Savonaguarantees an economical choice within our Rustic grade selection and we assure you that it will give a modern feel to your current or upcoming renovation with its classic Natural Rustic Fine Sawn Variant White Oak and style combination. This distinctive wood floor is cured with layers of Matte Finish to create both a natural feel and look while maintaining excellent protection. Together with light gloss and wire brushing treatments these floors boast an elegant texture while maintaining their sleek presentation.",
+            "details": {
+                "finish": "Oil",
+                "grade": "Rustic",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Wire Brushed",
+                "thickness": "5/8\"",
+                "wear_layer": "4mm",
+                "width": "7-1/2\u2033",
+                "color": "Natural"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/savona-2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/savona-3.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/savona-4.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/savona-5.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/savona-6.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/savona-7.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/savona-8.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Savona_Installed-1.jpg"
+            ]
+        },
+        {
+            "name": "Unfinished 7-1/2\u2033 European Oak Engineered Hardwood Flooring",
+            "description": "Unfinished 7-1/2\u2033swear layer is constructed from 4-millimeter solid European Oak hardwood and its core is comprised of two to nine-layer plywood. European Oak flooring is one of the most sought after hardwood choices in the US. All of these layers combined to result in a 5/8\u2033(15mm) total plank thickness and each plank measuring to 7-1/2\u201d in width.",
+            "details": {
+                "finish": "Oil",
+                "grade": "Rustic",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Smooth",
+                "thickness": "5/8\"",
+                "wear_layer": "2mm",
+                "width": "7-1/2\u2033",
+                "color": "Natural"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Unfinished7.5_1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villa_Unfinished7.5_050-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villa_Unfinished7.5_055-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villa_Unfinished7.5_061-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Villa_Unfinished7.5_066-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Unfinished7.5_1.5.jpg"
+            ]
+        },
+        {
+            "name": "Venezia Natural/Rustic Engineered Hardwood in Grey",
+            "description": "Veneziaguarantees an economical choice within our\u00a0rustic grade Maple. We are confident that this smooth surface selection will add a modern feel to your current or upcoming renovation with its classic, natural Maple\u00a0color and style combination. This distinctive wood floor is cured with layers of UV\u00a0Lacquer to achieve excellent protection together with a\u00a0satin sheen and is also\u00a0smooth\u00a0for the interest of elegant texture while maintaining a sleek presentation.",
+            "details": {
+                "finish": "Oil",
+                "grade": "Rustic",
+                "plank_length": "Random Up to 73\u2033 (Most pieces are 73\u2033)",
+                "texture": "Smooth",
+                "thickness": "5/8\"",
+                "wear_layer": "2mm",
+                "width": "7-1/2\u2033",
+                "color": "Grey"
+            },
+            "images": [
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/venezia_2.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/venezia_3-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/venezia_4-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/venezia_5-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/venezia_6-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/venezia_7-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/venezia_8-1.jpg",
+                "https://villagiowoodfloors.com/wp-content/uploads/2023/07/Venezia_Installed-1.jpg"
+            ]
+        }
+    ]
+}
